@@ -1,0 +1,1011 @@
+﻿Log file open, 12/11/17 23:55:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DeepSpaceCouncelling
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2105554308) SRandInit(-2105554308).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187493
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.11-22.55.16:068][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.11-22.55.16:068][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.11-22.55.16:077][  0]LogInit: Computer: STEVE
+[2017.12.11-22.55.16:077][  0]LogInit: User: Nicolaas
+[2017.12.11-22.55.16:078][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.11-22.55.16:078][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2017.12.11-22.55.16:078][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.12.11-22.55.16:078][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.11-22.55.16:078][  0]LogMemory: Process Physical Memory: 272.33 MB used, 272.33 MB peak
+[2017.12.11-22.55.16:078][  0]LogMemory: Process Virtual Memory: 269.71 MB used, 269.71 MB peak
+[2017.12.11-22.55.16:078][  0]LogMemory: Physical Memory: 9323.13 MB used,  15188.76 MB free, 24511.89 MB total
+[2017.12.11-22.55.16:078][  0]LogMemory: Virtual Memory: 626.78 MB used,  15188.76 MB free, 134217728.00 MB total
+[2017.12.11-22.55.16:194][  0]LogInit: Using OS detected language (en-US).
+[2017.12.11-22.55.16:194][  0]LogInit: Using OS detected locale (en-NZ).
+[2017.12.11-22.55.16:197][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.11-22.55.16:667][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.11-22.55.16:954][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.11-22.55.17:011][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.11-22.55.17:011][  0]LogD3D11RHI:       8089/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.11-22.55.17:013][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.11-22.55.17:013][  0]LogD3D11RHI:       0/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.11-22.55.17:013][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.11-22.55.17:023][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.11-22.55.17:023][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.11-22.55.17:023][  0]LogWindows: EnumDisplayDevices:
+[2017.12.11-22.55.17:023][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.11-22.55.17:023][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.11-22.55.17:024][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.11-22.55.17:024][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.11-22.55.17:024][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.11-22.55.17:024][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.11-22.55.17:024][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.12.11-22.55.17:024][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.12.11-22.55.17:024][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2017.12.11-22.55.17:058][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.11-22.55.17:071][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.11-22.55.17:115][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../UnrealProjects/DeepSpaceCouncelling/Intermediate/Shaders/WorkingDirectory/23348/).
+[2017.12.11-22.55.17:115][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nicolaas/AppData/Local/Temp/UnrealShaderWorkingDir/73EA232944947E453821BC9145E69EF8/'.
+[2017.12.11-22.55.17:115][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.11-22.55.18:149][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.11-22.55.18:195][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.11-22.55.18:241][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.11-22.55.18:286][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.11-22.55.18:332][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.11-22.55.18:376][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.11-22.55.18:421][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.11-22.55.18:468][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.11-22.55.18:505][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.11-22.55.18:556][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.11-22.55.18:604][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.11-22.55.18:648][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.11-22.55.18:696][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.11-22.55.18:742][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.11-22.55.18:836][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.11-22.55.18:837][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.11-22.55.18:884][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.11-22.55.18:920][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.11-22.55.19:000][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.11-22.55.19:024][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.11-22.55.19:069][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.11-22.55.19:111][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.11-22.55.19:156][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.11-22.55.19:200][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.11-22.55.19:200][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.11-22.55.19:628][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.11-22.55.19:751][  0]LogDerivedDataCache: Loaded boot cache 0.12s 80MB C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.11-22.55.19:751][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.11-22.55.19:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/DeepSpaceCouncelling/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.11-22.55.19:751][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.11-22.55.19:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/DeepSpaceCouncelling/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.11-22.55.19:751][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.11-22.55.19:775][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.11-22.55.19:788][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nicolaas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.11-22.55.19:805][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.11-22.55.19:806][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.11-22.55.19:807][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.11-22.55.19:807][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.11-22.55.20:245][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.11-22.55.20:575][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.11-22.55.20:607][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.11-22.55.20:607][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.11-22.55.20:607][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.11-22.55.20:607][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.11-22.55.20:607][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.11-22.55.20:641][  0]LogNetVersion: DeepSpaceCouncelling , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1083458091)
+[2017.12.11-22.55.20:831][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2017.12.11-22.55.21:370][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.042408 seconds
+[2017.12.11-22.55.21:376][  0]LogUObjectArray: 35489 objects as part of root set at end of initial load.
+[2017.12.11-22.55.21:376][  0]LogUObjectAllocator: 7292128 out of 0 bytes used by permanent object pool.
+[2017.12.11-22.55.21:376][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.11-22.55.21:429][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.11-22.55.24:230][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.11-22.55.24:275][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.11-22.55.24:836][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.11-22.55.25:222][  0]SourceControl: Source control is disabled
+[2017.12.11-22.55.26:601][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.11-22.55.27:062][  0]LogEngine: Initializing Engine...
+[2017.12.11-22.55.27:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.11-22.55.27:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.11-22.55.27:430][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.11-22.55.27:438][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.55.27:478][  0]LogInit: FAudioDevice initialized.
+[2017.12.11-22.55.27:568][  0]LogDerivedDataCache: Saved boot cache 0.09s 80MB C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.11-22.55.27:585][  0]LogInit: Texture streaming: Enabled
+[2017.12.11-22.55.27:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.11-22.55.27:773][  0]LogInit: Transaction tracking system initialized
+[2017.12.11-22.55.28:009][  0]BlueprintLog: New page: Editor Load
+[2017.12.11-22.55.28:721][  0]LocalizationService: Localization service is disabled
+[2017.12.11-22.55.29:342][  0]LogConsoleResponse: Display: 
+[2017.12.11-22.55.29:526][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.11-22.55.29:526][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.11-22.55.29:527][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.11-22.55.30:619][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DeepSpaceCouncelling/Content/' took 0.01s
+[2017.12.11-22.55.30:660][  0]Cmd: MAP LOAD FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.11-22.55.30:661][  0]LightingResults: New page: Lighting Build
+[2017.12.11-22.55.30:697][  0]MapCheck: New page: Map Check
+[2017.12.11-22.55.30:697][  0]LightingResults: New page: Lighting Build
+[2017.12.11-22.55.31:371][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.12.11-22.55.31:388][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.11-22.55.31:400][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.11-22.55.31:467][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.642ms to complete.
+[2017.12.11-22.55.31:467][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.807
+[2017.12.11-22.55.31:635][  0]LogCollectionManager: Loaded 0 collections in 0.001647 seconds
+[2017.12.11-22.55.31:715][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DeepSpaceCouncelling/Saved/Collections/' took 0.01s
+[2017.12.11-22.55.31:715][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DeepSpaceCouncelling/Content/Developers/Nicolaas/Collections/' took 0.01s
+[2017.12.11-22.55.31:715][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DeepSpaceCouncelling/Content/Collections/' took 0.01s
+[2017.12.11-22.55.31:715][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.11-22.55.31:724][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2356 classes and 510 folders.
+[2017.12.11-22.55.31:773][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.11-22.55.31:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.11-22.55.31:857][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.11-22.55.31:942][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.11-22.55.31:944][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.11-22.55.31:949][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.11-22.55.32:068][  0]LogRenderer: Reallocating scene render targets to support 1116x640 Format 10 NumSamples 1 (Frame:1).
+[2017.12.11-22.55.32:231][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.11-22.55.32:231][  0]LogLoad: (Engine Initialization) Total time: 18.62 seconds
+[2017.12.11-22.55.32:231][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.11-22.55.32:231][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.11-22.55.32:231][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.11-22.55.32:592][  0]SourceControl: On branch master
+[2017.12.11-22.55.32:592][  0]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2017.12.11-22.55.32:592][  0]SourceControl:   (use "git push" to publish your local commits)
+[2017.12.11-22.55.32:592][  0]SourceControl: nothing to commit, working tree clean
+[2017.12.11-22.55.32:592][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.11-22.55.32:641][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-22.55.32:918][  1]LogAssetRegistry: Asset discovery search completed in 12.1078 seconds
+[2017.12.11-22.55.32:919][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.11-22.55.32:919][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2017.12.11-22.55.39:421][386]Cmd: MAP LOAD FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.11-22.55.39:426][386]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-22.55.39:439][386]LightingResults: New page: Lighting Build
+[2017.12.11-22.55.39:440][386]LoadErrors: New page: Loading map: Playground.umap
+[2017.12.11-22.55.39:445][386]MapCheck: New page: Map Check
+[2017.12.11-22.55.39:445][386]LightingResults: New page: Lighting Build
+[2017.12.11-22.55.39:586][386]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.55.39:651][386]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.11-22.55.39:683][386]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.11-22.55.39:748][386]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.114ms to complete.
+[2017.12.11-22.55.39:748][386]LogFileHelpers: Loading map 'Playground' took 0.328
+[2017.12.11-22.55.41:098][461]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-22.55.41:130][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-22.55.41:130][461]PIE: New page: PIE session: Playground (12/12/2017 12:55:41 am)
+[2017.12.11-22.55.41:130][461]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-22.55.41:138][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007820s)
+[2017.12.11-22.55.41:139][461]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.55.41:139][461]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2017.12.11-22.55.41:140][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009412s)
+[2017.12.11-22.55.41:152][461]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.55.41:184][461]LogInit: FAudioDevice initialized.
+[2017.12.11-22.55.41:229][461]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-22.55.41:231][461]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.11-23.55.41
+[2017.12.11-22.55.41:231][461]LogWorld: Bringing up level for play took: 0.000831
+[2017.12.11-22.55.41:262][461]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.11-22.55.41:264][461]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.103
+[2017.12.11-22.55.42:665][543]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.11-22.55.43:298][581]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.11-22.55.44:033][625]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes No 
+[2017.12.11-22.55.58:638][150]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj)
+[2017.12.11-22.55.58:651][150]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj
+[2017.12.11-22.55.58:662][150]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.56.05:048][150]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj
+[2017.12.11-22.56.05:060][150]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.56.05:067][150]LogStaticMesh: Building static mesh DSC_EnergyCapsule_model...
+[2017.12.11-22.56.05:086][150]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/DSC_EnergyCapsule_model.DSC_EnergyCapsule_model
+[2017.12.11-22.56.05:098][150]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.56.08:084][325]LogActorFactory: Actor Factory created DSC_EnergyCapsule_model
+[2017.12.11-22.56.09:172][390]LogActorFactory: Actor Factory created DSC_EnergyCapsule_model
+[2017.12.11-22.56.10:068][440]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-22.56.10:079][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-22.56.10:079][440]PIE: New page: PIE session: Playground (12/12/2017 12:56:10 am)
+[2017.12.11-22.56.10:079][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-22.56.10:085][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005674s)
+[2017.12.11-22.56.10:086][440]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.56.10:086][440]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2017.12.11-22.56.10:087][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.007339s)
+[2017.12.11-22.56.10:101][440]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.56.10:135][440]LogInit: FAudioDevice initialized.
+[2017.12.11-22.56.10:167][440]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-22.56.10:168][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.11-23.56.10
+[2017.12.11-22.56.10:169][440]LogWorld: Bringing up level for play took: 0.000754
+[2017.12.11-22.56.10:171][440]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 1.009
+[2017.12.11-22.56.17:464][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_EnergyCapsule_model)
+[2017.12.11-22.56.24:741][269]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2017.12.11-22.56.31:889][691]LogEditorFactories: Performing atomic reimport of [D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj]
+[2017.12.11-22.56.31:914][691]LogFbx: Loading FBX Scene from D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj
+[2017.12.11-22.56.31:925][691]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.56.31:938][691]LogStaticMesh: Building static mesh DSC_EnergyCapsule_model...
+[2017.12.11-22.56.31:955][691]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/DSC_EnergyCapsule_model.DSC_EnergyCapsule_model
+[2017.12.11-22.56.31:969][691]LogEditorFactories: -- imported successfully
+[2017.12.11-22.56.31:974][691]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.56.32:019][691]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.11-22.56.34:826][843]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-22.56.34:842][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-22.56.34:842][843]PIE: New page: PIE session: Playground (12/12/2017 12:56:34 am)
+[2017.12.11-22.56.34:842][843]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-22.56.34:849][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007248s)
+[2017.12.11-22.56.34:850][843]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.56.34:850][843]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2017.12.11-22.56.34:851][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008691s)
+[2017.12.11-22.56.34:866][843]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.56.34:908][843]LogInit: FAudioDevice initialized.
+[2017.12.11-22.56.34:940][843]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-22.56.34:942][843]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.11-23.56.34
+[2017.12.11-22.56.34:942][843]LogWorld: Bringing up level for play took: 0.000937
+[2017.12.11-22.56.34:944][843]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.217
+[2017.12.11-22.57.00:455][233]LogEditorFactories: Performing atomic reimport of [D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj]
+[2017.12.11-22.57.00:474][233]LogFbx: Loading FBX Scene from D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_EnergyCapsule.model.obj
+[2017.12.11-22.57.00:486][233]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.57.00:498][233]LogStaticMesh: Building static mesh DSC_EnergyCapsule_model...
+[2017.12.11-22.57.00:515][233]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/DSC_EnergyCapsule_model.DSC_EnergyCapsule_model
+[2017.12.11-22.57.00:529][233]LogEditorFactories: -- imported successfully
+[2017.12.11-22.57.00:532][233]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.57.01:888][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_EnergyCapsule_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_EnergyCapsule_model.uasset" SILENT=true
+[2017.12.11-22.57.01:903][303]LogSavePackage: Save=12.65ms
+[2017.12.11-22.57.01:903][303]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_EnergyCapsule_model1302D2FC4FE3FA3C14DABF8F64528593.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_EnergyCapsule_model.uasset'
+[2017.12.11-22.57.01:905][303]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_EnergyCapsule_model.uasset
+[2017.12.11-22.57.47:362][711]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj)
+[2017.12.11-22.57.47:371][711]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj
+[2017.12.11-22.57.47:375][711]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.57.54:106][711]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj
+[2017.12.11-22.57.54:109][711]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.57.54:117][711]LogStaticMesh: Building static mesh DSC_Shelf_model...
+[2017.12.11-22.57.54:146][711]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/DSC_Shelf_model.DSC_Shelf_model
+[2017.12.11-22.57.54:156][711]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.57.57:391][901]LogActorFactory: Actor Factory created DSC_Shelf_model
+[2017.12.11-22.57.58:294][955]LogActorFactory: Actor Factory created DSC_Shelf_model
+[2017.12.11-22.58.06:105][351]LogEditorFactories: Performing atomic reimport of [D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj]
+[2017.12.11-22.58.06:125][351]LogFbx: Loading FBX Scene from D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj
+[2017.12.11-22.58.06:129][351]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.58.06:140][351]LogStaticMesh: Building static mesh DSC_Shelf_model...
+[2017.12.11-22.58.06:170][351]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/DSC_Shelf_model.DSC_Shelf_model
+[2017.12.11-22.58.06:190][351]LogEditorFactories: -- imported successfully
+[2017.12.11-22.58.06:193][351]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.58.07:075][400]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-22.58.07:086][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-22.58.07:086][400]PIE: New page: PIE session: Playground (12/12/2017 12:58:07 am)
+[2017.12.11-22.58.07:086][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-22.58.07:092][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005918s)
+[2017.12.11-22.58.07:093][400]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.58.07:093][400]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2017.12.11-22.58.07:093][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.007177s)
+[2017.12.11-22.58.07:108][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.58.07:140][400]LogInit: FAudioDevice initialized.
+[2017.12.11-22.58.07:174][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-22.58.07:177][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.11-23.58.07
+[2017.12.11-22.58.07:177][400]LogWorld: Bringing up level for play took: 0.000936
+[2017.12.11-22.58.07:179][400]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.017
+[2017.12.11-22.58.17:275][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Shelf_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Shelf_model.uasset" SILENT=true
+[2017.12.11-22.58.17:291][956]LogSavePackage: Save=13.98ms
+[2017.12.11-22.58.17:291][956]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_Shelf_model5597C3DE476673C4767A43811828E990.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Shelf_model.uasset'
+[2017.12.11-22.58.17:293][956]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Shelf_model.uasset
+[2017.12.11-22.58.21:043][165]LogEditorFactories: Performing atomic reimport of [D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj]
+[2017.12.11-22.58.21:061][165]LogFbx: Loading FBX Scene from D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Shelf.model.obj
+[2017.12.11-22.58.21:065][165]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.58.21:077][165]LogStaticMesh: Building static mesh DSC_Shelf_model...
+[2017.12.11-22.58.21:107][165]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/DSC_Shelf_model.DSC_Shelf_model
+[2017.12.11-22.58.21:117][165]LogEditorFactories: -- imported successfully
+[2017.12.11-22.58.21:120][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.58.24:330][261]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-22.58.24:343][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-22.58.24:343][261]PIE: New page: PIE session: Playground (12/12/2017 12:58:24 am)
+[2017.12.11-22.58.24:343][261]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-22.58.24:348][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005046s)
+[2017.12.11-22.58.24:349][261]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.58.24:349][261]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2017.12.11-22.58.24:349][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.006072s)
+[2017.12.11-22.58.24:362][261]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.58.24:395][261]LogInit: FAudioDevice initialized.
+[2017.12.11-22.58.24:426][261]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-22.58.24:428][261]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.11-23.58.24
+[2017.12.11-22.58.24:429][261]LogWorld: Bringing up level for play took: 0.001104
+[2017.12.11-22.58.24:432][261]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.729
+[2017.12.11-22.59.07:852][362]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Memory_Chip.model.obj)
+[2017.12.11-22.59.07:861][362]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Memory_Chip.model.obj
+[2017.12.11-22.59.07:873][362]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.59.17:419][362]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Memory_Chip.model.obj
+[2017.12.11-22.59.17:432][362]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.59.17:447][362]LogStaticMesh: Building static mesh DSC_Memory_Chip_model...
+[2017.12.11-22.59.17:480][362]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/DSC_Memory_Chip_model.DSC_Memory_Chip_model
+[2017.12.11-22.59.17:482][362]LogStaticMesh: Warning: DSC_Memory_Chip_model has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.11-22.59.17:482][362]LogStaticMesh: Warning: DSC_Memory_Chip_model has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.11-22.59.17:492][362]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-22.59.17:492][362]FBXImport: Warning: DSC_Memory_Chip_model has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.11-22.59.17:492][362]FBXImport: Warning: DSC_Memory_Chip_model has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.11-22.59.21:383][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Shelf_model)
+[2017.12.11-22.59.22:781][672]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.11-22.59.36:723][192]LogActorFactory: Actor Factory created DSC_Memory_Chip_model
+[2017.12.11-22.59.41:147][456]LogActorFactory: Actor Factory created DSC_Memory_Chip_model
+[2017.12.11-22.59.43:273][581]Cmd: DELETE
+[2017.12.11-22.59.43:273][581]Cmd: ACTOR DELETE
+[2017.12.11-22.59.43:274][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.11-22.59.43:284][581]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.11-22.59.45:844][703]LogActorFactory: Actor Factory created DSC_Memory_Chip_model
+[2017.12.11-22.59.46:865][764]LogActorFactory: Actor Factory created DSC_Memory_Chip_model
+[2017.12.11-22.59.47:540][802]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-22.59.47:551][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-22.59.47:551][802]PIE: New page: PIE session: Playground (12/12/2017 12:59:47 am)
+[2017.12.11-22.59.47:551][802]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-22.59.47:557][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005111s)
+[2017.12.11-22.59.47:557][802]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-22.59.47:558][802]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2017.12.11-22.59.47:558][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.006108s)
+[2017.12.11-22.59.47:573][802]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-22.59.47:606][802]LogInit: FAudioDevice initialized.
+[2017.12.11-22.59.47:638][802]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-22.59.47:640][802]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.11-23.59.47
+[2017.12.11-22.59.47:640][802]LogWorld: Bringing up level for play took: 0.001066
+[2017.12.11-22.59.47:643][802]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.481
+[2017.12.11-23.00.57:366][963]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_2.model.obj)
+[2017.12.11-23.00.57:376][963]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_2.model.obj
+[2017.12.11-23.00.57:384][963]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.01.02:654][963]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_2.model.obj
+[2017.12.11-23.01.02:662][963]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.01.02:664][963]LogStaticMesh: Building static mesh DSC_Box_2_model...
+[2017.12.11-23.01.02:687][963]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/DSC_Box_2_model.DSC_Box_2_model
+[2017.12.11-23.01.02:698][963]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-23.01.05:643][131]LogActorFactory: Actor Factory created DSC_Box_2_model
+[2017.12.11-23.01.11:058][454]LogActorFactory: Actor Factory created DSC_Box_2_model
+[2017.12.11-23.01.19:814][933]LogEditorFactories: Performing atomic reimport of [D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_2.model.obj]
+[2017.12.11-23.01.19:833][933]LogFbx: Loading FBX Scene from D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_2.model.obj
+[2017.12.11-23.01.19:842][933]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.01.19:853][933]LogStaticMesh: Building static mesh DSC_Box_2_model...
+[2017.12.11-23.01.19:876][933]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/DSC_Box_2_model.DSC_Box_2_model
+[2017.12.11-23.01.19:889][933]LogEditorFactories: -- imported successfully
+[2017.12.11-23.01.19:892][933]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-23.02.32:052][248]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_3.model.obj)
+[2017.12.11-23.02.32:060][248]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_3.model.obj
+[2017.12.11-23.02.32:065][248]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.02.40:017][248]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Box_3.model.obj
+[2017.12.11-23.02.40:024][248]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.02.40:026][248]LogStaticMesh: Building static mesh DSC_Box_3_model...
+[2017.12.11-23.02.40:055][248]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/DSC_Box_3_model.DSC_Box_3_model
+[2017.12.11-23.02.40:064][248]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-23.03.02:579][473]LogActorFactory: Actor Factory created DSC_Box_3_model
+[2017.12.11-23.03.03:719][541]LogActorFactory: Actor Factory created DSC_Box_3_model
+[2017.12.11-23.03.37:242][667]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Frame.model.obj)
+[2017.12.11-23.03.37:250][667]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Frame.model.obj
+[2017.12.11-23.03.37:254][667]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.03.43:862][667]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_Frame.model.obj
+[2017.12.11-23.03.43:866][667]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.03.43:867][667]LogStaticMesh: Building static mesh DSC_Frame_model...
+[2017.12.11-23.03.43:886][667]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/DSC_Frame_model.DSC_Frame_model
+[2017.12.11-23.03.43:897][667]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-23.03.46:560][822]LogActorFactory: Actor Factory created DSC_Frame_model
+[2017.12.11-23.03.49:222][981]LogActorFactory: Actor Factory created DSC_Frame_model
+[2017.12.11-23.03.54:710][305]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.03.54:721][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.03.54:721][305]PIE: New page: PIE session: Playground (12/12/2017 1:03:54 am)
+[2017.12.11-23.03.54:721][305]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-23.03.54:726][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005423s)
+[2017.12.11-23.03.54:727][305]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-23.03.54:727][305]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2017.12.11-23.03.54:727][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.006309s)
+[2017.12.11-23.03.54:744][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.03.54:776][305]LogInit: FAudioDevice initialized.
+[2017.12.11-23.03.54:808][305]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-23.03.54:810][305]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.12-00.03.54
+[2017.12.11-23.03.54:810][305]LogWorld: Bringing up level for play took: 0.000984
+[2017.12.11-23.03.54:813][305]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.349
+[2017.12.11-23.04.15:934][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Frame_model)
+[2017.12.11-23.05.36:399][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.11-23.05.36:452][945]LogSavePackage: Save=39.87ms
+[2017.12.11-23.05.36:452][945]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/PlaygroundA5C45A1A4A8D5907DA1D869EF1E68986.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap'
+[2017.12.11-23.05.36:455][945]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap
+[2017.12.11-23.05.36:569][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground_BuiltData" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground_BuiltData.uasset" SILENT=true
+[2017.12.11-23.05.36:584][945]LogSavePackage: Save=11.88ms
+[2017.12.11-23.05.36:584][945]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/Playground_BuiltDataE104F5754764C5826B67518DE37C1470.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground_BuiltData.uasset'
+[2017.12.11-23.05.36:585][945]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground_BuiltData.uasset
+[2017.12.11-23.06.54:922][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_RemoteConsole.model.obj)
+[2017.12.11-23.06.54:931][266]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_RemoteConsole.model.obj
+[2017.12.11-23.06.54:947][266]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.07.10:956][266]LogFbx: Loading FBX Scene from ../../../../Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_RemoteConsole.model.obj
+[2017.12.11-23.07.10:973][266]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.07.10:977][266]LogStaticMesh: Building static mesh DSC_RemoteConsole_model...
+[2017.12.11-23.07.11:014][266]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/DSC_RemoteConsole_model.DSC_RemoteConsole_model
+[2017.12.11-23.07.11:017][266]LogStaticMesh: Warning: DSC_RemoteConsole_model has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.11-23.07.11:017][266]LogStaticMesh: Warning: DSC_RemoteConsole_model has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.11-23.07.11:028][266]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-23.07.11:028][266]FBXImport: Warning: DSC_RemoteConsole_model has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.11-23.07.11:028][266]FBXImport: Warning: DSC_RemoteConsole_model has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.11-23.07.14:493][468]LogActorFactory: Actor Factory created DSC_RemoteConsole_model
+[2017.12.11-23.07.15:429][524]LogActorFactory: Actor Factory created DSC_RemoteConsole_model
+[2017.12.11-23.07.17:912][670]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.07.17:924][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.07.17:924][670]PIE: New page: PIE session: Playground (12/12/2017 1:07:17 am)
+[2017.12.11-23.07.17:924][670]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-23.07.17:930][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006301s)
+[2017.12.11-23.07.17:931][670]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-23.07.17:932][670]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2017.12.11-23.07.17:932][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008118s)
+[2017.12.11-23.07.17:945][670]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.07.17:979][670]LogInit: FAudioDevice initialized.
+[2017.12.11-23.07.18:009][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-23.07.18:010][670]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.12-00.07.18
+[2017.12.11-23.07.18:010][670]LogWorld: Bringing up level for play took: 0.001028
+[2017.12.11-23.07.18:013][670]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.852
+[2017.12.11-23.07.33:126][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_RemoteConsole_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset" SILENT=true
+[2017.12.11-23.07.33:139][531]LogSavePackage: Save=12.08ms
+[2017.12.11-23.07.33:139][531]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_RemoteConsole_modelF3776ABB490074D9AFCD42B5EC54A2D9.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset'
+[2017.12.11-23.07.33:142][531]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset
+[2017.12.11-23.07.36:557][715]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.07.36:570][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.07.36:570][715]PIE: New page: PIE session: Playground (12/12/2017 1:07:36 am)
+[2017.12.11-23.07.36:570][715]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-23.07.36:575][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005040s)
+[2017.12.11-23.07.36:576][715]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-23.07.36:576][715]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2017.12.11-23.07.36:576][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.006126s)
+[2017.12.11-23.07.36:589][715]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.07.36:620][715]LogInit: FAudioDevice initialized.
+[2017.12.11-23.07.36:666][715]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-23.07.36:670][715]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.12-00.07.36
+[2017.12.11-23.07.36:671][715]LogWorld: Bringing up level for play took: 0.001909
+[2017.12.11-23.07.36:675][715]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.486
+[2017.12.11-23.07.40:858][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_RemoteConsole_model)
+[2017.12.11-23.07.47:626][327]LogEditorFactories: Performing atomic reimport of [D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_RemoteConsole.model.obj]
+[2017.12.11-23.07.47:646][327]LogFbx: Loading FBX Scene from D:/Software/assetforge-deluxe-windows_deluxe/DSC/Export/DSC_RemoteConsole.model.obj
+[2017.12.11-23.07.47:663][327]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-23.07.47:677][327]LogStaticMesh: Building static mesh DSC_RemoteConsole_model...
+[2017.12.11-23.07.47:715][327]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/DSC_RemoteConsole_model.DSC_RemoteConsole_model
+[2017.12.11-23.07.47:719][327]LogStaticMesh: Warning: DSC_RemoteConsole_model has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.11-23.07.47:719][327]LogStaticMesh: Warning: DSC_RemoteConsole_model has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.11-23.07.47:731][327]LogEditorFactories: -- imported successfully
+[2017.12.11-23.07.47:734][327]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.11-23.07.47:734][327]FBXImport: Warning: DSC_RemoteConsole_model has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.11-23.07.47:734][327]FBXImport: Warning: DSC_RemoteConsole_model has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.11-23.07.50:203][460]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.07.50:215][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.07.50:215][460]PIE: New page: PIE session: Playground (12/12/2017 1:07:50 am)
+[2017.12.11-23.07.50:215][460]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-23.07.50:220][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004866s)
+[2017.12.11-23.07.50:221][460]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-23.07.50:221][460]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.12.11-23.07.50:221][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.005948s)
+[2017.12.11-23.07.50:234][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.07.50:266][460]LogInit: FAudioDevice initialized.
+[2017.12.11-23.07.50:303][460]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-23.07.50:305][460]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.12-00.07.50
+[2017.12.11-23.07.50:305][460]LogWorld: Bringing up level for play took: 0.000916
+[2017.12.11-23.07.50:307][460]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.854
+[2017.12.11-23.08.05:266][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_RemoteConsole_model)
+[2017.12.11-23.08.10:975][690]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.08.10:986][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.08.10:986][690]PIE: New page: PIE session: Playground (12/12/2017 1:08:10 am)
+[2017.12.11-23.08.10:986][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.11-23.08.10:993][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006930s)
+[2017.12.11-23.08.10:993][690]LogAIModule: Creating AISystem for world Playground
+[2017.12.11-23.08.10:993][690]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2017.12.11-23.08.10:994][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008204s)
+[2017.12.11-23.08.11:007][690]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.08.11:037][690]LogInit: FAudioDevice initialized.
+[2017.12.11-23.08.11:075][690]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.11-23.08.11:076][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.12-00.08.11
+[2017.12.11-23.08.11:076][690]LogWorld: Bringing up level for play took: 0.000847
+[2017.12.11-23.08.11:079][690]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.082
+[2017.12.11-23.08.54:370][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.11-23.08.54:423][266]LogSavePackage: Save=41.47ms
+[2017.12.11-23.08.54:423][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/PlaygroundFCCF645B42513CF3F25136BEBFF88799.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap'
+[2017.12.11-23.08.54:425][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap
+[2017.12.11-23.08.54:442][266]LogFileHelpers: Saving map 'Playground' took 0.144
+[2017.12.11-23.08.54:458][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Shelf_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Shelf_model.uasset" SILENT=true
+[2017.12.11-23.08.54:473][266]LogSavePackage: Save=11.18ms
+[2017.12.11-23.08.54:473][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_Shelf_modelCAF18F334120A929609D72B4C56893C6.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Shelf_model.uasset'
+[2017.12.11-23.08.54:476][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Shelf_model.uasset
+[2017.12.11-23.08.54:492][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Memory_Chip_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Memory_Chip_model.uasset" SILENT=true
+[2017.12.11-23.08.54:503][266]LogSavePackage: Save=10.60ms
+[2017.12.11-23.08.54:503][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_Memory_Chip_model675D9CA84862AA033B2E0F84A19FCCCE.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Memory_Chip_model.uasset'
+[2017.12.11-23.08.54:506][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Memory_Chip_model.uasset
+[2017.12.11-23.08.55:027][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Box_2_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Box_2_model.uasset" SILENT=true
+[2017.12.11-23.08.55:039][266]LogSavePackage: Save=10.28ms
+[2017.12.11-23.08.55:039][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_Box_2_model9103BC534D42A919882665A42991D961.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Box_2_model.uasset'
+[2017.12.11-23.08.55:043][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Box_2_model.uasset
+[2017.12.11-23.08.55:278][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Box_3_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Box_3_model.uasset" SILENT=true
+[2017.12.11-23.08.55:292][266]LogSavePackage: Save=11.95ms
+[2017.12.11-23.08.55:292][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_Box_3_model3EF1279240671124A24D79BE23A0C3DC.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Box_3_model.uasset'
+[2017.12.11-23.08.55:294][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Box_3_model.uasset
+[2017.12.11-23.08.55:529][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Frame_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Frame_model.uasset" SILENT=true
+[2017.12.11-23.08.55:542][266]LogSavePackage: Save=11.40ms
+[2017.12.11-23.08.55:542][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_Frame_model8B061E654AB43D7BC1E177A24A62385D.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Frame_model.uasset'
+[2017.12.11-23.08.55:544][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_Frame_model.uasset
+[2017.12.11-23.08.55:769][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_RemoteConsole_model" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset" SILENT=true
+[2017.12.11-23.08.55:786][266]LogSavePackage: Save=13.73ms
+[2017.12.11-23.08.55:786][266]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/DSC_RemoteConsole_model0CF6740042D35F9D296BAA8C93ED628B.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset'
+[2017.12.11-23.08.55:789][266]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset
+[2017.12.11-23.09.00:953][576]SourceControl: fatal: D:/UE_4.18/Engine/Content/: 'D:/UE_4.18/Engine/Content/' is outside repository
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey', but the path contains illegal characters '.'
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial', but the path contains illegal characters '.'
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController', but the path contains illegal characters '.'
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO', but the path contains illegal characters '.'
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color', but the path contains illegal characters '.'
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal', but the path contains illegal characters '.'
+[2017.12.11-23.09.01:069][576]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2017.12.11-23.09.27:598][576]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.11-23.09.27:740][576]SourceControl: [master b1b2f87] Added second batch of meshes
+[2017.12.11-23.09.27:740][576]SourceControl:  9 files changed, 0 insertions(+), 0 deletions(-)
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_Box_2_model.uasset
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_Box_3_model.uasset
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_EnergyCapsule_model.uasset
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_Frame_model.uasset
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_Memory_Chip_model.uasset
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_RemoteConsole_model.uasset
+[2017.12.11-23.09.27:740][576]SourceControl:  create mode 100644 Content/Geometry/Meshes/DSC_Shelf_model.uasset
+[2017.12.11-23.09.27:747][576]SourceControl: Commited [master b1b2f87] Added second batch of meshes.
+[2017.12.11-23.10.47:546][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_WaterCooler_model)
+[2017.12.11-23.10.56:438][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_RemoteConsole_model)
+[2017.12.11-23.11.02:367][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Frame_model)
+[2017.12.11-23.11.06:003][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Box_3_model)
+[2017.12.11-23.11.39:861][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.11-23.14.36:940][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.11-23.14.36:997][971]LogSavePackage: Save=42.84ms
+[2017.12.11-23.14.36:997][971]LogSavePackage: Moving '../../../../UnrealProjects/DeepSpaceCouncelling/Saved/PlaygroundCF0B6C144CDDF2E550ECCA93ACE6E6D2.tmp' to '../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap'
+[2017.12.11-23.14.37:000][971]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DeepSpaceCouncelling/Content/Levels/Playground.umap
+[2017.12.11-23.14.37:016][971]LogFileHelpers: Saving map 'Playground' took 0.150
+[2017.12.11-23.14.37:269][972]Cmd: QUIT_EDITOR
+[2017.12.11-23.14.38:218][972]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.11-23.14.38:230][972]LogExit: Preparing to exit.
+[2017.12.11-23.14.38:752][972]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/DeepSpaceCouncelling/Content/', and we were unable to create a new request.
+[2017.12.11-23.14.38:772][972]LogExit: Editor shut down
+[2017.12.11-23.14.38:775][972]LogExit: Transaction tracking system shut down
+[2017.12.11-23.14.38:846][972]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.11-23.14.38:846][972]LogDirectoryWatcher: A directory notification for '../../../../UnrealProjects/DeepSpaceCouncelling/Content/' was aborted.
+[2017.12.11-23.14.38:846][972]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.11-23.14.38:846][972]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.11-23.14.38:846][972]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.11-23.14.38:894][972]LogExit: Object subsystem successfully closed.
+[2017.12.11-23.14.38:916][972]LogD3D11RHI: Shutdown
+[2017.12.11-23.14.38:917][972]LogD3D11RHI: CleanupD3DDevice
+[2017.12.11-23.14.38:920][972]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.11-23.14.38:929][972]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (542)
+[2017.12.11-23.14.38:929][972]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2017.12.11-23.14.38:929][972]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (538)
+[2017.12.11-23.14.38:929][972]LogModuleManager: Shutting down and abandoning module SceneOutliner (536)
+[2017.12.11-23.14.38:929][972]LogModuleManager: Shutting down and abandoning module AddContentDialog (534)
+[2017.12.11-23.14.38:929][972]LogDirectoryWatcher: A directory notification for 'D:/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.11-23.14.38:930][972]LogModuleManager: Shutting down and abandoning module WidgetCarousel (533)
+[2017.12.11-23.14.38:930][972]LogModuleManager: Shutting down and abandoning module EditorWidgets (530)
+[2017.12.11-23.14.38:930][972]LogModuleManager: Shutting down and abandoning module CollectionManager (528)
+[2017.12.11-23.14.38:930][972]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DeepSpaceCouncelling/Content/Collections/' was aborted.
+[2017.12.11-23.14.38:930][972]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DeepSpaceCouncelling/Content/Developers/Nicolaas/Collections/' was aborted.
+[2017.12.11-23.14.38:930][972]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DeepSpaceCouncelling/Saved/Collections/' was aborted.
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module StatsViewer (526)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module FoliageEdit (524)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module LandscapeEditor (522)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module MeshPaintMode (520)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (518)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module ActorPickerMode (516)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module GeometryMode (514)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module TextureAlignMode (512)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module BspMode (510)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (508)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module HardwareSurvey (506)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (504)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module AutomationWorker (502)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (500)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (498)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module PlacementMode (497)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (494)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (492)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (490)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (488)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (486)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (478)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2017.12.11-23.14.38:931][972]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (461)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.12.11-23.14.38:932][972]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.12.11-23.14.39:484][972]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.12.11-23.14.39:485][972]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.12.11-23.14.39:548][972]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.12.11-23.14.39:548][972]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.12.11-23.14.39:548][972]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.12.11-23.14.39:548][972]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.12.11-23.14.39:548][972]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.12.11-23.14.39:548][972]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.12.11-23.14.39:549][972]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (358)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module LauncherPlatform (356)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module AnalyticsET (354)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module PortalServices (352)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module PortalRpc (350)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module MessagingRpc (348)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module AIModule (346)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module GameplayDebugger (345)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module AITestSuite (343)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module DesktopPlatform (340)
+[2017.12.11-23.14.39:550][972]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (334)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (332)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (328)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module CableComponent (326)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (324)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module AndroidPermission (322)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module ActorSequence (318)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (316)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (314)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module MediaCompositing (312)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (292)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.12.11-23.14.39:605][972]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.12.11-23.14.39:606][972]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (254)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (252)
+[2017.12.11-23.14.39:607][972]LogModuleManager: Shutting down and abandoning module UdpMessaging (250)
+[2017.12.11-23.14.39:708][972]LogModuleManager: Shutting down and abandoning module TcpMessaging (248)
+[2017.12.11-23.14.39:808][972]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (246)
+[2017.12.11-23.14.39:808][972]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (244)
+[2017.12.11-23.14.39:808][972]LogModuleManager: Shutting down and abandoning module FacialAnimation (242)
+[2017.12.11-23.14.39:808][972]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (240)
+[2017.12.11-23.14.39:809][972]LogModuleManager: Shutting down and abandoning module GraphEditor (239)
+[2017.12.11-23.14.39:809][972]LogModuleManager: Shutting down and abandoning module ContentBrowser (237)
+[2017.12.11-23.14.39:809][972]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module ImgMedia (226)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module MediaAssets (218)
+[2017.12.11-23.14.39:810][972]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module Overlay (214)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module OverlayEditor (213)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.11-23.14.39:816][972]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2017.12.11-23.14.39:818][972]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (162)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module KismetCompiler (160)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module MeshUtilities (158)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (157)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (156)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (155)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (153)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (151)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module MaterialBaking (147)
+[2017.12.11-23.14.39:819][972]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.11-23.14.39:890][972]LogDerivedDataCache: Shutdown
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.11-23.14.39:890][972]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (95)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (93)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (91)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (89)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (87)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (85)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (83)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (81)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.11-23.14.39:891][972]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.11-23.14.39:892][972]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.11-23.14.39:892][972]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65AA2ED2-44F4-EB03-9A15-A0831F7E4A66%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=1b57ede44761d298b1857fb68275d256%7Cc7ca512f0b2d46b4ac38a990ee62864d%7C27d75541-00f4-4ae7-8a28-61bb13cd5131&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.11-23.14.39:899][972]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.11-23.14.39:900][972]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.11-23.14.39:901][972]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.11-23.14.39:905][972]LogExit: Exiting.
+[2017.12.11-23.14.39:914][972]Log file closed, 12/12/17 00:14:39
