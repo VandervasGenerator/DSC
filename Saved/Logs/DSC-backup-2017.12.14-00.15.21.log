@@ -1,0 +1,1302 @@
+﻿Log file open, 12/13/17 22:27:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DSC
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1126054334) SRandInit(1126054334).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172805
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.13-21.27.57:063][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.13-21.27.57:063][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.13-21.27.57:081][  0]LogInit: Computer: STEVE
+[2017.12.13-21.27.57:081][  0]LogInit: User: Nicolaas
+[2017.12.13-21.27.57:081][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.13-21.27.57:081][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2017.12.13-21.27.57:081][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.12.13-21.27.57:081][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.13-21.27.57:081][  0]LogMemory: Process Physical Memory: 271.23 MB used, 271.23 MB peak
+[2017.12.13-21.27.57:081][  0]LogMemory: Process Virtual Memory: 269.60 MB used, 269.60 MB peak
+[2017.12.13-21.27.57:081][  0]LogMemory: Physical Memory: 8884.49 MB used,  15627.40 MB free, 24511.89 MB total
+[2017.12.13-21.27.57:081][  0]LogMemory: Virtual Memory: 626.82 MB used,  15627.40 MB free, 134217728.00 MB total
+[2017.12.13-21.27.57:184][  0]LogInit: Using OS detected language (en-US).
+[2017.12.13-21.27.57:184][  0]LogInit: Using OS detected locale (en-NZ).
+[2017.12.13-21.27.57:188][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.13-21.27.57:620][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.13-21.27.57:930][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.13-21.27.57:978][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.13-21.27.57:978][  0]LogD3D11RHI:       8089/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.13-21.27.57:980][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.13-21.27.57:980][  0]LogD3D11RHI:       0/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.13-21.27.57:980][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.13-21.27.57:987][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.13-21.27.57:987][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.13-21.27.57:988][  0]LogWindows: EnumDisplayDevices:
+[2017.12.13-21.27.57:988][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.13-21.27.57:988][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.13-21.27.57:988][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.13-21.27.57:989][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.13-21.27.57:989][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.13-21.27.57:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.13-21.27.57:989][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.12.13-21.27.57:989][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.12.13-21.27.57:989][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2017.12.13-21.27.58:021][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.13-21.27.58:033][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.13-21.27.58:078][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProjects/DSC/Intermediate/Shaders/WorkingDirectory/10608/).
+[2017.12.13-21.27.58:078][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nicolaas/AppData/Local/Temp/UnrealShaderWorkingDir/E69CCBDF4C2A904EF7AE23AA6BA52EB1/'.
+[2017.12.13-21.27.58:078][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.13-21.27.59:037][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.13-21.27.59:082][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.13-21.27.59:123][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.13-21.27.59:166][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.13-21.27.59:213][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.13-21.27.59:258][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.13-21.27.59:300][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.13-21.27.59:341][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.13-21.27.59:376][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.13-21.27.59:416][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.13-21.27.59:456][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.13-21.27.59:497][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.13-21.27.59:538][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.13-21.27.59:577][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.13-21.27.59:660][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.13-21.27.59:660][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.13-21.27.59:701][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.13-21.27.59:732][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.13-21.27.59:808][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.13-21.27.59:830][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.13-21.27.59:871][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.13-21.27.59:911][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.13-21.27.59:953][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.13-21.27.59:994][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.13-21.27.59:994][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.13-21.28.00:353][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.13-21.28.00:442][  0]LogDerivedDataCache: Loaded boot cache 0.09s 80MB C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.13-21.28.00:442][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.13-21.28.00:442][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/DSC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.13-21.28.00:442][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.13-21.28.00:442][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/DSC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.13-21.28.00:442][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.13-21.28.00:460][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.13-21.28.00:473][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nicolaas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.13-21.28.00:485][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.13-21.28.00:485][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.13-21.28.00:486][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.13-21.28.00:486][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.13-21.28.00:868][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.13-21.28.01:162][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.13-21.28.01:192][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.13-21.28.01:192][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.13-21.28.01:192][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.13-21.28.01:192][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.13-21.28.01:192][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.13-21.28.01:223][  0]LogNetVersion: DSC , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 391328305)
+[2017.12.13-21.28.01:394][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2017.12.13-21.28.01:911][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.062580 seconds
+[2017.12.13-21.28.01:917][  0]LogUObjectArray: 35489 objects as part of root set at end of initial load.
+[2017.12.13-21.28.01:917][  0]LogUObjectAllocator: 7292128 out of 0 bytes used by permanent object pool.
+[2017.12.13-21.28.01:917][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.13-21.28.01:951][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.13-21.28.04:456][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.13-21.28.04:494][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.13-21.28.05:036][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.13-21.28.05:421][  0]SourceControl: Source control is disabled
+[2017.12.13-21.28.06:909][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.13-21.28.07:316][  0]LogEngine: Initializing Engine...
+[2017.12.13-21.28.07:560][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.13-21.28.07:560][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.13-21.28.07:659][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.13-21.28.07:668][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-21.28.07:704][  0]LogInit: FAudioDevice initialized.
+[2017.12.13-21.28.07:794][  0]LogDerivedDataCache: Saved boot cache 0.09s 80MB C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.13-21.28.07:806][  0]LogInit: Texture streaming: Enabled
+[2017.12.13-21.28.07:875][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.13-21.28.07:973][  0]LogInit: Transaction tracking system initialized
+[2017.12.13-21.28.08:206][  0]BlueprintLog: New page: Editor Load
+[2017.12.13-21.28.08:893][  0]LocalizationService: Localization service is disabled
+[2017.12.13-21.28.09:474][  0]LogConsoleResponse: Display: 
+[2017.12.13-21.28.09:713][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.13-21.28.09:713][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.13-21.28.09:714][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.13-21.28.10:643][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Content/' took 0.01s
+[2017.12.13-21.28.10:685][  0]Cmd: MAP LOAD FILE="../../../../UnrealProjects/DSC/Content/Levels/SpaceShip.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.13-21.28.10:730][  0]LightingResults: New page: Lighting Build
+[2017.12.13-21.28.10:761][  0]MapCheck: New page: Map Check
+[2017.12.13-21.28.10:761][  0]LightingResults: New page: Lighting Build
+[2017.12.13-21.28.11:300][  0]LogAIModule: Creating AISystem for world SpaceShip
+[2017.12.13-21.28.11:306][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.13-21.28.11:318][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.13-21.28.11:368][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.818ms to complete.
+[2017.12.13-21.28.11:368][  0]LogFileHelpers: Loading map 'SpaceShip' took 0.683
+[2017.12.13-21.28.11:429][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.13-21.28.11:574][  0]LogCollectionManager: Loaded 0 collections in 0.016305 seconds
+[2017.12.13-21.28.11:663][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Saved/Collections/' took 0.01s
+[2017.12.13-21.28.11:663][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Content/Developers/Nicolaas/Collections/' took 0.01s
+[2017.12.13-21.28.11:663][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Content/Collections/' took 0.01s
+[2017.12.13-21.28.11:663][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.13-21.28.11:674][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2356 classes and 510 folders.
+[2017.12.13-21.28.11:727][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.13-21.28.12:282][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.13-21.28.12:314][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.13-21.28.12:398][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.13-21.28.12:400][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.13-21.28.12:426][  0]LogSlate: Took 0.019042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.13-21.28.12:608][  0]LogRenderer: Reallocating scene render targets to support 1116x640 Format 10 NumSamples 1 (Frame:1).
+[2017.12.13-21.28.12:760][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.13-21.28.12:760][  0]LogLoad: (Engine Initialization) Total time: 18.50 seconds
+[2017.12.13-21.28.12:760][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.13-21.28.12:760][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.13-21.28.12:760][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.13-21.28.12:805][  0]SourceControl: On branch master
+[2017.12.13-21.28.12:805][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.13-21.28.12:805][  0]SourceControl: Changes to be committed:
+[2017.12.13-21.28.12:805][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.13-21.28.12:805][  0]SourceControl: 	new file:   DSC.png
+[2017.12.13-21.28.12:805][  0]SourceControl: Changes not staged for commit:
+[2017.12.13-21.28.12:805][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.13-21.28.12:805][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.13-21.28.12:805][  0]SourceControl: 	modified:   Saved/Logs/DSC.log
+[2017.12.13-21.28.12:805][  0]SourceControl: Untracked files:
+[2017.12.13-21.28.12:805][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/DSC_Box_2_model_2017-12-13-00-48-10.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/DSC_Box_3_model_2017-12-13-00-48-18.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-27-37.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-43-08.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-34-47.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-48-18.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PhotoFrame_2017-12-13-00-31-33.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PickupMasterBP_2017-12-13-00-33-57.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PlayerPleaseCue_2017-12-13-00-42-36.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-33-57.umap
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-48-18.umap
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-34-47.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-48-18.uasset
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-6CF4280045B8831D713610A2F7A43939/
+[2017.12.13-21.28.12:805][  0]SourceControl: 	Saved/Logs/DSC-backup-2017.12.13-22.27.55.log
+[2017.12.13-21.28.12:805][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.13-21.28.12:872][  0]LogSlate: Took 0.012039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-21.28.12:948][  1]LogAssetRegistry: Asset discovery search completed in 11.5758 seconds
+[2017.12.13-21.28.12:950][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.13-21.28.12:950][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2017.12.13-21.28.13:794][ 50]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-21.30.12:639][158]Cmd: MAP LOAD FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.13-21.30.12:644][158]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-21.30.12:655][158]LightingResults: New page: Lighting Build
+[2017.12.13-21.30.12:656][158]LoadErrors: New page: Loading map: Playground.umap
+[2017.12.13-21.30.12:658][158]MapCheck: New page: Map Check
+[2017.12.13-21.30.12:658][158]LightingResults: New page: Lighting Build
+[2017.12.13-21.30.12:866][158]LogLinker: Warning: Asset '../../../../UnrealProjects/DSC/Content/Interaction/OutlineMaterial/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.13-21.30.12:872][158]LogLinker: Warning: Asset '../../../../UnrealProjects/DSC/Content/Interaction/OutlineMaterial/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.13-21.30.12:875][158]LogLinker: Warning: Asset '../../../../UnrealProjects/DSC/Content/Interaction/OutlineMaterial/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.13-21.30.13:072][158]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-21.30.13:153][158]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.13-21.30.13:188][158]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.13-21.30.13:248][158]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.342ms to complete.
+[2017.12.13-21.30.13:248][158]LogFileHelpers: Loading map 'Playground' took 0.610
+[2017.12.13-21.31.01:815][330]LogEditorViewport: Clicking on Actor (LMB): BombBP_C (BombBP)
+[2017.12.13-21.37.55:022][383]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.13-21.37.55:096][383]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2017.12.13-21.37.57:464][462]LogSlate: Took 0.042242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.13-21.38.00:180][605]LogRenderer: Reallocating scene render targets to support 1268x696 Format 10 NumSamples 1 (Frame:211).
+[2017.12.13-21.39.21:877][916]BlueprintLog: New page: Compile Tony
+[2017.12.13-21.39.40:913][446]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2017.12.13-21.39.40:913][446]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2017.12.13-21.39.42:272][526]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.13-21.39.54:103][  6]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.13-21.40.31:108][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.13-21.40.31:483][979]LogSavePackage: Save=66.33ms
+[2017.12.13-21.40.31:483][979]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground_Auto17E78BE8142327806BCA0F686EE614E30.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto1.umap'
+[2017.12.13-21.40.31:485][979]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto1.umap
+[2017.12.13-21.40.31:486][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.397
+[2017.12.13-21.40.31:486][979]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.397
+[2017.12.13-21.40.31:488][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyBlackboard] ([1] browsable assets)...
+[2017.12.13-21.40.31:488][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyBlackboard]
+[2017.12.13-21.40.31:489][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBlackboard" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBlackboard_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-21.40.31:491][979]LogSavePackage: Save=1.05ms
+[2017.12.13-21.40.31:491][979]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBlackboard_Auto1DA0A3A10439D20AB5E979ABEE308F4FB.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBlackboard_Auto1.uasset'
+[2017.12.13-21.40.31:492][979]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBlackboard_Auto1.uasset
+[2017.12.13-21.40.31:493][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyBT] ([1] browsable assets)...
+[2017.12.13-21.40.31:493][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyBT]
+[2017.12.13-21.40.31:493][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBT" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-21.40.31:495][979]LogSavePackage: Save=1.01ms
+[2017.12.13-21.40.31:495][979]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBT_Auto1F9808C6D430BEF774694D593985A7490.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto1.uasset'
+[2017.12.13-21.40.31:496][979]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto1.uasset
+[2017.12.13-21.40.31:497][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyController] ([1] browsable assets)...
+[2017.12.13-21.40.31:497][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyController]
+[2017.12.13-21.40.31:497][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyController" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-21.40.31:505][979]LogSavePackage: Save=6.98ms
+[2017.12.13-21.40.31:505][979]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyController_Auto1C89268E84BE85E14BBAFADBF26E89B9C.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto1.uasset'
+[2017.12.13-21.40.31:506][979]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto1.uasset
+[2017.12.13-21.40.31:506][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tony/Tony] ([1] browsable assets)...
+[2017.12.13-21.40.31:519][979]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tony/Tony.Tony]
+[2017.12.13-21.40.31:519][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/Tony]
+[2017.12.13-21.40.31:519][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/Tony" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/Tony_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-21.40.31:540][979]LogSavePackage: Save=20.58ms
+[2017.12.13-21.40.31:540][979]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Tony_Auto14063639841C61F94BF220F8B97F0AD25.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/Tony_Auto1.uasset'
+[2017.12.13-21.40.31:541][979]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/Tony_Auto1.uasset
+[2017.12.13-21.40.31:541][979]LogFileHelpers: Auto-saving content packages took 0.054
+[2017.12.13-21.41.51:399][554]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.13-21.42.29:679][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/Tony" FILE="../../../../UnrealProjects/DSC/Content/Tony/Tony.uasset" SILENT=true
+[2017.12.13-21.42.29:701][ 50]LogSavePackage: Save=19.99ms
+[2017.12.13-21.42.29:701][ 50]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Tony8A3E1FF24592E8AF5B702DB0D7CC60BA.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/Tony.uasset'
+[2017.12.13-21.42.29:703][ 50]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/Tony.uasset
+[2017.12.13-21.42.30:963][ 93]BlueprintLog: New page: Compile Tony
+[2017.12.13-21.43.10:161][915]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.13-21.44.44:352][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBlackboard" FILE="../../../../UnrealProjects/DSC/Content/Tony/TonyBlackboard.uasset" SILENT=true
+[2017.12.13-21.44.44:355][686]LogSavePackage: Save=1.67ms
+[2017.12.13-21.44.44:355][686]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBlackboard8FBCAC10440C32AF0AB53CA95D65A676.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/TonyBlackboard.uasset'
+[2017.12.13-21.44.44:357][686]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/TonyBlackboard.uasset
+[2017.12.13-21.44.49:135][922]LogSlate: Took 0.045255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.13-21.46.22:000][322]BlueprintLog: New page: Compile TonyController
+[2017.12.13-21.46.44:871][402]BlueprintLog: New page: Compile TonyController
+[2017.12.13-21.50.32:405][637]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.021
+[2017.12.13-21.50.32:408][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyController] ([1] browsable assets)...
+[2017.12.13-21.50.32:408][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyController]
+[2017.12.13-21.50.32:408][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyController" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-21.50.32:431][637]LogSavePackage: Save=21.75ms
+[2017.12.13-21.50.32:431][637]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyController_Auto2369AA9DA486DD6FF1CBE62BC1C9266FD.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto2.uasset'
+[2017.12.13-21.50.32:432][637]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto2.uasset
+[2017.12.13-21.50.32:432][637]LogFileHelpers: Auto-saving content packages took 0.026
+[2017.12.13-21.57.57:884][401]BlueprintLog: New page: Compile TonyController
+[2017.12.13-21.57.58:790][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyController" FILE="../../../../UnrealProjects/DSC/Content/Tony/TonyController.uasset" SILENT=true
+[2017.12.13-21.57.58:816][433]LogSavePackage: Save=23.80ms
+[2017.12.13-21.57.58:816][433]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyController222F4E0D403B15E62DE131B10B25D953.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/TonyController.uasset'
+[2017.12.13-21.57.58:818][433]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/TonyController.uasset
+[2017.12.13-21.57.59:080][436]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Tony/TonyController.
+[2017.12.13-22.00.33:194][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.13-22.00.33:272][500]LogSavePackage: Save=72.39ms
+[2017.12.13-22.00.33:272][500]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground_Auto396396A25441A1BB7FA4E82A21EB59F99.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto3.umap'
+[2017.12.13-22.00.33:273][500]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto3.umap
+[2017.12.13-22.00.33:275][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.098
+[2017.12.13-22.00.33:275][500]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2017.12.13-22.03.34:048][817]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Tony/BTService_BlueprintBase_New.
+[2017.12.13-22.03.47:387][303]SourceControl: On branch master
+[2017.12.13-22.03.47:387][303]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.13-22.03.47:387][303]SourceControl: Changes to be committed:
+[2017.12.13-22.03.47:387][303]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.13-22.03.47:387][303]SourceControl: 	new file:   Content/Tony/Tony.uasset
+[2017.12.13-22.03.47:387][303]SourceControl: 	new file:   Content/Tony/TonyBlackboard.uasset
+[2017.12.13-22.03.47:387][303]SourceControl: 	new file:   Content/Tony/TonyController.uasset
+[2017.12.13-22.03.47:387][303]SourceControl: 	new file:   DSC.png
+[2017.12.13-22.03.47:387][303]SourceControl: Changes not staged for commit:
+[2017.12.13-22.03.47:387][303]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.13-22.03.47:387][303]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Playground_Auto1.umap
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Playground_Auto3.umap
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.13-22.03.47:387][303]SourceControl: 	modified:   Saved/Logs/DSC.log
+[2017.12.13-22.03.47:387][303]SourceControl: Untracked files:
+[2017.12.13-22.03.47:387][303]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.13-22.03.47:387][303]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBT_Auto1.uasset
+[2017.12.13-22.03.47:387][303]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBlackboard_Auto1.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Autosaves/Game/Tony/TonyController_Auto1.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Autosaves/Game/Tony/TonyController_Auto2.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Autosaves/Game/Tony/Tony_Auto1.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/DSC_Box_2_model_2017-12-13-00-48-10.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/DSC_Box_3_model_2017-12-13-00-48-18.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-27-37.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-43-08.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-34-47.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-48-18.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PhotoFrame_2017-12-13-00-31-33.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PickupMasterBP_2017-12-13-00-33-57.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PlayerPleaseCue_2017-12-13-00-42-36.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-33-57.umap
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-48-18.umap
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/Playground_2017-12-13-22-40-31.umap
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/Playground_2017-12-13-23-00-33.umap
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-34-47.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-48-18.uasset
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-6CF4280045B8831D713610A2F7A43939/
+[2017.12.13-22.03.47:388][303]SourceControl: 	Saved/Logs/DSC-backup-2017.12.13-22.27.55.log
+[2017.12.13-22.03.47:692][303]LogMetaData: Removing '/Game/Tony/AgroCheck.SKEL_AgroCheck_C' ref from Metadata '/Game/Tony/BTService_BlueprintBase_New.PackageMetaData'
+[2017.12.13-22.03.47:692][303]LogMetaData: Removing '/Game/Tony/AgroCheck.AgroCheck_C' ref from Metadata '/Game/Tony/BTService_BlueprintBase_New.PackageMetaData'
+[2017.12.13-22.03.47:713][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/AgroCheck" FILE="../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset" SILENT=true
+[2017.12.13-22.03.47:717][303]LogSavePackage: Save=2.51ms
+[2017.12.13-22.03.47:717][303]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/AgroCheck4E5EC93345A29DDF7FBC4A87FFC50DB3.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset'
+[2017.12.13-22.03.47:719][303]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset
+[2017.12.13-22.03.48:290][306]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Tony/AgroCheck.
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19767"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19779"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19794"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19800"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19806"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19848"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19860"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19866"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19914"
+[2017.12.13-22.04.12:578][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19953"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19962"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19968"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20016"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20028"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20037"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20058"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20064"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20070"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20088"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20094"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20100"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20106"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20124"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20142"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20154"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20172"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20178"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20190"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20196"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20208"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20214"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20220"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20226"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20232"
+[2017.12.13-22.04.12:579][580]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20238"
+[2017.12.13-22.04.12:584][580]LogBlueprint: Error: [AgroCheck] CommutativeAssociativeBinaryOperator has no function: 'None' class: 'None'
+[2017.12.13-22.06.14:892][181]LogSlate: Took 0.293054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.13-22.08.11:799][453]BlueprintLog: New page: Compile AgroCheck
+[2017.12.13-22.10.40:635][ 28]BlueprintLog: New page: Compile AgroCheck
+[2017.12.13-22.10.42:201][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/AgroCheck" FILE="../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset" SILENT=true
+[2017.12.13-22.10.42:212][113]LogSavePackage: Save=5.84ms
+[2017.12.13-22.10.42:212][113]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/AgroCheckDB5CF12245FEEF642619E8BA9DFC192B.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset'
+[2017.12.13-22.10.42:214][113]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset
+[2017.12.13-22.10.46:896][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.016
+[2017.12.13-22.10.46:898][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyBT] ([1] browsable assets)...
+[2017.12.13-22.10.46:898][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyBT]
+[2017.12.13-22.10.46:898][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBT" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-22.10.46:905][390]LogSavePackage: Save=4.57ms
+[2017.12.13-22.10.46:905][390]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBT_Auto4D96CE64C46F84D7F36CDF786084B9482.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto4.uasset'
+[2017.12.13-22.10.46:906][390]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto4.uasset
+[2017.12.13-22.10.46:906][390]LogFileHelpers: Auto-saving content packages took 0.008
+[2017.12.13-22.12.05:503][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19767"
+[2017.12.13-22.12.05:503][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19779"
+[2017.12.13-22.12.05:503][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19794"
+[2017.12.13-22.12.05:503][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19800"
+[2017.12.13-22.12.05:503][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19806"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19848"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19860"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19866"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19914"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19953"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19962"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_19968"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20016"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20028"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20037"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20058"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20064"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20070"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20088"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20094"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20100"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20106"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20124"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20142"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20154"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20172"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20178"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20190"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20196"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20208"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20214"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20220"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20226"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20232"
+[2017.12.13-22.12.05:504][859]Error: BEGIN OBJECT: Invalid class specified:    Begin Object Class=EdGraphPin Name="EdGraphPin_20238"
+[2017.12.13-22.12.05:509][859]LogBlueprint: Error: [AgroCheck] CommutativeAssociativeBinaryOperator has no function: 'None' class: 'None'
+[2017.12.13-22.12.07:020][948]LogEditorTransaction: Undo Paste clipboard contents
+[2017.12.13-22.23.33:338][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.020
+[2017.12.13-22.23.33:340][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/AgroCheck] ([1] browsable assets)...
+[2017.12.13-22.23.33:340][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/AgroCheck]
+[2017.12.13-22.23.33:340][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/AgroCheck" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/AgroCheck_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-22.23.33:389][166]LogSavePackage: Save=44.53ms
+[2017.12.13-22.23.33:389][166]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/AgroCheck_Auto5493E45B94A6C3F76EF3D83A9AE345EEF.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/AgroCheck_Auto5.uasset'
+[2017.12.13-22.23.33:390][166]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/AgroCheck_Auto5.uasset
+[2017.12.13-22.23.33:390][166]LogFileHelpers: Auto-saving content packages took 0.052
+[2017.12.13-22.25.26:370][543]BlueprintLog: New page: Compile AgroCheck
+[2017.12.13-22.29.41:942][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.13-22.29.42:036][832]LogSavePackage: Save=68.56ms
+[2017.12.13-22.29.42:036][832]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PlaygroundCBD8BCDD4C2246E68F2AA8A84CC838EA.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.13-22.29.42:049][832]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.13-22.29.42:071][832]LogFileHelpers: Saving map 'Playground' took 0.191
+[2017.12.13-22.29.42:074][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBT" FILE="../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset" SILENT=true
+[2017.12.13-22.29.42:079][832]LogSavePackage: Save=4.16ms
+[2017.12.13-22.29.42:079][832]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBT4C6BE2104F3C763F53BAA3B4E74E13B6.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset'
+[2017.12.13-22.29.42:081][832]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset
+[2017.12.13-22.29.42:300][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/AgroCheck" FILE="../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset" SILENT=true
+[2017.12.13-22.29.42:368][832]LogSavePackage: Save=63.28ms
+[2017.12.13-22.29.42:368][832]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/AgroCheck73B32C9442EE2D805376F2AB3C7A0878.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset'
+[2017.12.13-22.29.42:370][832]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset
+[2017.12.13-22.29.54:113][ 99]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Tony/BTTask_BlueprintBase_New.
+[2017.12.13-22.30.11:653][ 13]SourceControl: On branch master
+[2017.12.13-22.30.11:653][ 13]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.13-22.30.11:653][ 13]SourceControl: Changes to be committed:
+[2017.12.13-22.30.11:653][ 13]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.13-22.30.11:653][ 13]SourceControl: 	new file:   Content/Tony/AgroCheck.uasset
+[2017.12.13-22.30.11:653][ 13]SourceControl: 	new file:   Content/Tony/Tony.uasset
+[2017.12.13-22.30.11:653][ 13]SourceControl: 	new file:   Content/Tony/TonyBT.uasset
+[2017.12.13-22.30.11:653][ 13]SourceControl: 	new file:   Content/Tony/TonyBlackboard.uasset
+[2017.12.13-22.30.11:653][ 13]SourceControl: 	new file:   Content/Tony/TonyController.uasset
+[2017.12.13-22.30.11:653][ 13]SourceControl: 	new file:   DSC.png
+[2017.12.13-22.30.11:653][ 13]SourceControl: Changes not staged for commit:
+[2017.12.13-22.30.11:653][ 13]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.13-22.30.11:654][ 13]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Content/Levels/Playground.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Content/Tony/AgroCheck.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Playground_Auto1.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Playground_Auto3.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	modified:   Saved/Logs/DSC.log
+[2017.12.13-22.30.11:654][ 13]SourceControl: Untracked files:
+[2017.12.13-22.30.11:654][ 13]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/AgroCheck_Auto5.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBT_Auto1.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBT_Auto4.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBlackboard_Auto1.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/TonyController_Auto1.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/TonyController_Auto2.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Autosaves/Game/Tony/Tony_Auto1.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/AgroCheck_2017-12-13-23-10-42.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/AgroCheck_2017-12-13-23-23-33.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/AgroCheck_2017-12-13-23-29-42.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/DSC_Box_2_model_2017-12-13-00-48-10.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/DSC_Box_3_model_2017-12-13-00-48-18.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-27-37.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-43-08.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-34-47.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-48-18.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PhotoFrame_2017-12-13-00-31-33.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PickupMasterBP_2017-12-13-00-33-57.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PlayerPleaseCue_2017-12-13-00-42-36.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-33-57.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-48-18.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/Playground_2017-12-13-22-40-31.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/Playground_2017-12-13-23-00-33.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/Playground_2017-12-13-23-29-41.umap
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-34-47.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-48-18.uasset
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-6CF4280045B8831D713610A2F7A43939/
+[2017.12.13-22.30.11:654][ 13]SourceControl: 	Saved/Logs/DSC-backup-2017.12.13-22.27.55.log
+[2017.12.13-22.30.11:969][ 13]LogMetaData: Removing '/Game/Tony/RapidMoveTo.SKEL_RapidMoveTo_C' ref from Metadata '/Game/Tony/BTTask_BlueprintBase_New.PackageMetaData'
+[2017.12.13-22.30.11:969][ 13]LogMetaData: Removing '/Game/Tony/RapidMoveTo.RapidMoveTo_C' ref from Metadata '/Game/Tony/BTTask_BlueprintBase_New.PackageMetaData'
+[2017.12.13-22.30.11:987][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/RapidMoveTo" FILE="../../../../UnrealProjects/DSC/Content/Tony/RapidMoveTo.uasset" SILENT=true
+[2017.12.13-22.30.11:990][ 13]LogSavePackage: Save=2.49ms
+[2017.12.13-22.30.11:990][ 13]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/RapidMoveTo89C5782E42BDFA6C4F845AB49F81D8A4.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/RapidMoveTo.uasset'
+[2017.12.13-22.30.11:993][ 13]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/RapidMoveTo.uasset
+[2017.12.13-22.30.12:625][ 19]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Tony/RapidMoveTo.
+[2017.12.13-22.31.40:098][101]BlueprintLog: New page: Compile RapidMoveTo
+[2017.12.13-22.35.52:813][682]BlueprintLog: New page: Compile RapidMoveTo
+[2017.12.13-22.36.49:444][204]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Tony/BTDecorator_BlueprintBase_New.
+[2017.12.13-22.36.55:694][564]SourceControl: On branch master
+[2017.12.13-22.36.55:694][564]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.13-22.36.55:694][564]SourceControl: Changes to be committed:
+[2017.12.13-22.36.55:694][564]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   Content/Tony/AgroCheck.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   Content/Tony/RapidMoveTo.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   Content/Tony/Tony.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   Content/Tony/TonyBT.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   Content/Tony/TonyBlackboard.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   Content/Tony/TonyController.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	new file:   DSC.png
+[2017.12.13-22.36.55:694][564]SourceControl: Changes not staged for commit:
+[2017.12.13-22.36.55:694][564]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.13-22.36.55:694][564]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.13-22.36.55:694][564]SourceControl: 	modified:   Content/Levels/Playground.umap
+[2017.12.13-22.36.55:694][564]SourceControl: 	modified:   Content/Tony/AgroCheck.uasset
+[2017.12.13-22.36.55:694][564]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.13-22.36.55:694][564]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.13-22.36.55:694][564]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Playground_Auto1.umap
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Playground_Auto3.umap
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.13-22.36.55:695][564]SourceControl: 	modified:   Saved/Logs/DSC.log
+[2017.12.13-22.36.55:695][564]SourceControl: Untracked files:
+[2017.12.13-22.36.55:695][564]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/AgroCheck_Auto5.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBT_Auto1.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBT_Auto4.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/TonyBlackboard_Auto1.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/TonyController_Auto1.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/TonyController_Auto2.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Autosaves/Game/Tony/Tony_Auto1.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/AgroCheck_2017-12-13-23-10-42.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/AgroCheck_2017-12-13-23-23-33.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/AgroCheck_2017-12-13-23-29-42.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/DSC_Box_2_model_2017-12-13-00-48-10.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/DSC_Box_3_model_2017-12-13-00-48-18.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-27-37.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-43-08.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-34-47.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/PhotoFrameBP_2017-12-13-00-48-18.uasset
+[2017.12.13-22.36.55:695][564]SourceControl: 	Saved/Backup/PhotoFrame_2017-12-13-00-31-33.uasset
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/PickupMasterBP_2017-12-13-00-33-57.uasset
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/PlayerPleaseCue_2017-12-13-00-42-36.uasset
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-33-57.umap
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/Playground_2017-12-13-00-48-18.umap
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/Playground_2017-12-13-22-40-31.umap
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/Playground_2017-12-13-23-00-33.umap
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/Playground_2017-12-13-23-29-41.umap
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-34-47.uasset
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Backup/PowerCoreBP_2017-12-13-00-48-18.uasset
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-6CF4280045B8831D713610A2F7A43939/
+[2017.12.13-22.36.55:696][564]SourceControl: 	Saved/Logs/DSC-backup-2017.12.13-22.27.55.log
+[2017.12.13-22.36.56:027][564]LogMetaData: Removing '/Game/Tony/CloseEnough.SKEL_CloseEnough_C' ref from Metadata '/Game/Tony/BTDecorator_BlueprintBase_New.PackageMetaData'
+[2017.12.13-22.36.56:027][564]LogMetaData: Removing '/Game/Tony/CloseEnough.CloseEnough_C' ref from Metadata '/Game/Tony/BTDecorator_BlueprintBase_New.PackageMetaData'
+[2017.12.13-22.36.56:047][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/CloseEnough" FILE="../../../../UnrealProjects/DSC/Content/Tony/CloseEnough.uasset" SILENT=true
+[2017.12.13-22.36.56:050][564]LogSavePackage: Save=2.47ms
+[2017.12.13-22.36.56:050][564]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/CloseEnough0379F8964BCB47E10109648F00A1FA49.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/CloseEnough.uasset'
+[2017.12.13-22.36.56:053][564]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/CloseEnough.uasset
+[2017.12.13-22.36.56:683][570]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Tony/CloseEnough.
+[2017.12.13-22.38.39:680][ 25]LogClass: Warning: Type mismatch in AcceptableDistance of SKEL_CloseEnough_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
+[2017.12.13-22.40.13:630][368]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.022
+[2017.12.13-22.40.13:633][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/RapidMoveTo] ([1] browsable assets)...
+[2017.12.13-22.40.13:633][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/RapidMoveTo]
+[2017.12.13-22.40.13:633][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/RapidMoveTo" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/RapidMoveTo_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-22.40.13:659][368]LogSavePackage: Save=21.76ms
+[2017.12.13-22.40.13:659][368]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/RapidMoveTo_Auto6EEF11193493A521D8E8BB68AE55CAEE2.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/RapidMoveTo_Auto6.uasset'
+[2017.12.13-22.40.13:660][368]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/RapidMoveTo_Auto6.uasset
+[2017.12.13-22.40.13:661][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/CloseEnough] ([1] browsable assets)...
+[2017.12.13-22.40.13:661][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/CloseEnough]
+[2017.12.13-22.40.13:661][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/CloseEnough" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/CloseEnough_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-22.40.13:674][368]LogSavePackage: Save=8.53ms
+[2017.12.13-22.40.13:674][368]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/CloseEnough_Auto69A7AF3F64F1C41CA339A758A0C416337.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/CloseEnough_Auto6.uasset'
+[2017.12.13-22.40.13:676][368]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/CloseEnough_Auto6.uasset
+[2017.12.13-22.40.13:676][368]LogFileHelpers: Auto-saving content packages took 0.044
+[2017.12.13-22.44.55:103][ 98]BlueprintLog: New page: Compile CloseEnough
+[2017.12.13-22.44.55:860][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/CloseEnough" FILE="../../../../UnrealProjects/DSC/Content/Tony/CloseEnough.uasset" SILENT=true
+[2017.12.13-22.44.55:886][134]LogSavePackage: Save=21.92ms
+[2017.12.13-22.44.55:886][134]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/CloseEnough8B3EBCEE408D764EDC991886CE86EA1B.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/CloseEnough.uasset'
+[2017.12.13-22.44.55:889][134]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/CloseEnough.uasset
+[2017.12.13-22.52.10:023][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.023
+[2017.12.13-22.52.10:025][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyBT] ([1] browsable assets)...
+[2017.12.13-22.52.10:026][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyBT]
+[2017.12.13-22.52.10:026][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBT" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-22.52.10:041][529]LogSavePackage: Save=10.24ms
+[2017.12.13-22.52.10:041][529]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBT_Auto7E58EC5D448B82E84C6433AB83C3A8D2C.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto7.uasset'
+[2017.12.13-22.52.10:042][529]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyBT_Auto7.uasset
+[2017.12.13-22.52.10:042][529]LogFileHelpers: Auto-saving content packages took 0.018
+[2017.12.13-22.54.17:445][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBT" FILE="../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset" SILENT=true
+[2017.12.13-22.54.17:466][924]LogSavePackage: Save=16.61ms
+[2017.12.13-22.54.17:466][924]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBT7BDA19AD4DFCA5EB3D3D56A9F6AAACF6.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset'
+[2017.12.13-22.54.17:469][924]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset
+[2017.12.13-22.55.02:498][324]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-22.55.02:718][324]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.13-22.55.02:723][324]LogPlayLevel: [PlayLevel] Compiling RapidMoveTo before play...
+[2017.12.13-22.55.02:875][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2017.12.13-22.55.02:891][324]PIE: New page: PIE session: Playground (14/12/2017 12:55:02 am)
+[2017.12.13-22.55.02:891][324]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-22.55.02:901][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009807s)
+[2017.12.13-22.55.02:902][324]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-22.55.02:902][324]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2017.12.13-22.55.02:903][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.011362s)
+[2017.12.13-22.55.02:929][324]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-22.55.02:965][324]LogInit: FAudioDevice initialized.
+[2017.12.13-22.55.03:878][324]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-22.55.03:896][324]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-23.55.03
+[2017.12.13-22.55.03:922][324]LogWorld: Bringing up level for play took: 0.027710
+[2017.12.13-22.55.03:964][324]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.12.13-22.55.03:969][324]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.834
+[2017.12.13-22.55.05:884][435]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.13-22.55.05:901][436]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.13-22.55.28:718][701]LogEditorViewport: Clicking on Actor (LMB): Tony_C (Tony)
+[2017.12.13-22.56.00:045][370]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.13-22.56.13:037][ 79]BlueprintLog: New page: Compile TonyController
+[2017.12.13-22.56.21:184][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.13-22.56.22:955][651]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.12.13-22.56.34:199][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Box_3_model)
+[2017.12.13-22.56.43:337][863]Cmd: DUPLICATE
+[2017.12.13-22.56.43:337][863]Cmd: ACTOR DUPLICATE
+[2017.12.13-22.56.49:179][206]Cmd: DUPLICATE
+[2017.12.13-22.56.49:179][206]Cmd: ACTOR DUPLICATE
+[2017.12.13-22.57.10:410][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.13-22.57.10:516][469]LogSavePackage: Save=75.94ms
+[2017.12.13-22.57.10:516][469]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground098B5054473B73A6988F74968618B0CE.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.13-22.57.10:519][469]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.13-22.57.10:645][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground_BuiltData" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground_BuiltData.uasset" SILENT=true
+[2017.12.13-22.57.10:661][469]LogSavePackage: Save=11.38ms
+[2017.12.13-22.57.10:661][469]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground_BuiltData67AD663C450BC1DEA67ABA8F970A3F65.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground_BuiltData.uasset'
+[2017.12.13-22.57.10:700][469]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground_BuiltData.uasset
+[2017.12.13-22.57.13:137][615]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-22.57.13:163][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-22.57.13:163][615]PIE: New page: PIE session: Playground (14/12/2017 12:57:13 am)
+[2017.12.13-22.57.13:164][615]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-22.57.13:172][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008019s)
+[2017.12.13-22.57.13:172][615]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-22.57.13:173][615]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2017.12.13-22.57.13:173][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009354s)
+[2017.12.13-22.57.13:198][615]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-22.57.13:231][615]LogInit: FAudioDevice initialized.
+[2017.12.13-22.57.13:264][615]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-22.57.13:267][615]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-23.57.13
+[2017.12.13-22.57.13:267][615]LogWorld: Bringing up level for play took: 0.002222
+[2017.12.13-22.57.13:271][615]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.136
+[2017.12.13-22.57.13:851][648]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-22.57.14:018][658]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-22.57.14:068][661]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.13-22.57.14:085][662]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.13-22.57.15:303][735]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.13-22.57.15:368][739]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.13-22.57.20:385][ 40]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.13-22.57.20:568][ 51]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.13-22.58.12:232][494]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-22.58.12:257][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-22.58.12:258][494]PIE: New page: PIE session: Playground (14/12/2017 12:58:12 am)
+[2017.12.13-22.58.12:258][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-22.58.12:266][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008213s)
+[2017.12.13-22.58.12:267][494]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-22.58.12:267][494]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2017.12.13-22.58.12:267][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009651s)
+[2017.12.13-22.58.12:297][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-22.58.12:330][494]LogInit: FAudioDevice initialized.
+[2017.12.13-22.58.12:362][494]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-22.58.12:366][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-23.58.12
+[2017.12.13-22.58.12:366][494]LogWorld: Bringing up level for play took: 0.002713
+[2017.12.13-22.58.12:369][494]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.766
+[2017.12.13-22.58.13:122][537]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-22.58.13:755][575]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-22.58.13:839][580]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.13-22.58.13:989][589]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.13-22.58.15:395][673]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.13-22.58.15:444][676]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.13-22.59.43:574][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyBT" FILE="../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset" SILENT=true
+[2017.12.13-22.59.43:598][710]LogSavePackage: Save=18.27ms
+[2017.12.13-22.59.43:598][710]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyBT711A44944EF19E6503069D80606E489B.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset'
+[2017.12.13-22.59.43:601][710]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/TonyBT.uasset
+[2017.12.13-22.59.46:766][899]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-22.59.46:791][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-22.59.46:791][899]PIE: New page: PIE session: Playground (14/12/2017 12:59:46 am)
+[2017.12.13-22.59.46:791][899]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-22.59.46:799][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007407s)
+[2017.12.13-22.59.46:799][899]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-22.59.46:800][899]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2017.12.13-22.59.46:800][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008829s)
+[2017.12.13-22.59.46:824][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-22.59.46:855][899]LogInit: FAudioDevice initialized.
+[2017.12.13-22.59.46:888][899]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-22.59.46:891][899]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-23.59.46
+[2017.12.13-22.59.46:891][899]LogWorld: Bringing up level for play took: 0.002318
+[2017.12.13-22.59.46:895][899]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.24
+[2017.12.13-22.59.53:353][118]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-22.59.53:499][127]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-22.59.53:766][143]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-22.59.53:883][150]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-22.59.57:700][379]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.13-22.59.58:167][407]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.13-23.00.47:403][352]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AAIController::RunBehaviorTree' [Element not found.]
+[2017.12.13-23.04.48:044][422]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.13-23.05.33:286][510]BlueprintLog: New page: Compile AgroCheck
+[2017.12.13-23.05.39:053][844]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-23.05.39:083][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-23.05.39:083][844]PIE: New page: PIE session: Playground (14/12/2017 1:05:39 am)
+[2017.12.13-23.05.39:083][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-23.05.39:092][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009003s)
+[2017.12.13-23.05.39:093][844]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-23.05.39:093][844]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2017.12.13-23.05.39:093][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.010464s)
+[2017.12.13-23.05.39:123][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-23.05.39:159][844]LogInit: FAudioDevice initialized.
+[2017.12.13-23.05.39:192][844]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-23.05.39:195][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.14-00.05.39
+[2017.12.13-23.05.39:195][844]LogWorld: Bringing up level for play took: 0.002277
+[2017.12.13-23.05.39:198][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.063
+[2017.12.13-23.05.39:531][862]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-23.05.39:548][863]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-23.05.40:934][946]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.13-23.05.40:951][947]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.13-23.08.11:127][920]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.13-23.08.11:660][952]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.13-23.09.50:653][232]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-23.09.50:679][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-23.09.50:679][232]PIE: New page: PIE session: Playground (14/12/2017 1:09:50 am)
+[2017.12.13-23.09.50:680][232]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-23.09.50:688][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007906s)
+[2017.12.13-23.09.50:688][232]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-23.09.50:689][232]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2017.12.13-23.09.50:689][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009333s)
+[2017.12.13-23.09.50:716][232]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-23.09.50:748][232]LogInit: FAudioDevice initialized.
+[2017.12.13-23.09.50:783][232]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-23.09.50:786][232]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.14-00.09.50
+[2017.12.13-23.09.50:786][232]LogWorld: Bringing up level for play took: 0.002669
+[2017.12.13-23.09.50:790][232]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.345
+[2017.12.13-23.10.05:275][ 90]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.13-23.10.05:358][ 95]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.13-23.10.05:508][104]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.13-23.10.07:824][243]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.13-23.10.29:203][520]LogEditorViewport: Clicking on Actor (LMB): Tony_C (Tony)
+[2017.12.13-23.11.59:373][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.13-23.11.59:451][912]LogSavePackage: Save=73.58ms
+[2017.12.13-23.11.59:451][912]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground_Auto8BDA2B8844FEEB652400451A934C60489.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto8.umap'
+[2017.12.13-23.11.59:453][912]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Levels/Playground_Auto8.umap
+[2017.12.13-23.11.59:454][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.107
+[2017.12.13-23.11.59:454][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.107
+[2017.12.13-23.11.59:458][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/TonyController] ([1] browsable assets)...
+[2017.12.13-23.11.59:458][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/TonyController]
+[2017.12.13-23.11.59:458][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyController" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-23.11.59:479][912]LogSavePackage: Save=17.17ms
+[2017.12.13-23.11.59:479][912]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyController_Auto80954C8A1442757BC453A0E86386CCDC2.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto8.uasset'
+[2017.12.13-23.11.59:481][912]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/TonyController_Auto8.uasset
+[2017.12.13-23.11.59:481][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/AgroCheck] ([1] browsable assets)...
+[2017.12.13-23.11.59:481][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/AgroCheck]
+[2017.12.13-23.11.59:481][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/AgroCheck" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/AgroCheck_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-23.11.59:549][912]LogSavePackage: Save=62.26ms
+[2017.12.13-23.11.59:549][912]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/AgroCheck_Auto843EB71AC4D533F35DA8DDEB36D2D2742.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/AgroCheck_Auto8.uasset'
+[2017.12.13-23.11.59:550][912]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/AgroCheck_Auto8.uasset
+[2017.12.13-23.11.59:551][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tony/RapidMoveTo] ([1] browsable assets)...
+[2017.12.13-23.11.59:551][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tony/RapidMoveTo]
+[2017.12.13-23.11.59:551][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/RapidMoveTo" FILE="../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/RapidMoveTo_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2017.12.13-23.11.59:578][912]LogSavePackage: Save=22.67ms
+[2017.12.13-23.11.59:578][912]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/RapidMoveTo_Auto8F7E6437A4FF5986C04169399E8D82B3A.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/RapidMoveTo_Auto8.uasset'
+[2017.12.13-23.11.59:579][912]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/Tony/RapidMoveTo_Auto8.uasset
+[2017.12.13-23.11.59:579][912]LogFileHelpers: Auto-saving content packages took 0.123
+[2017.12.13-23.12.43:432][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.13-23.12.43:534][518]LogSavePackage: Save=73.29ms
+[2017.12.13-23.12.43:534][518]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PlaygroundAB315C5F40A263C9CF7D6797CB383412.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.13-23.12.43:536][518]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.13-23.12.43:556][518]LogFileHelpers: Saving map 'Playground' took 0.205
+[2017.12.13-23.12.43:559][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/TonyController" FILE="../../../../UnrealProjects/DSC/Content/Tony/TonyController.uasset" SILENT=true
+[2017.12.13-23.12.43:581][518]LogSavePackage: Save=17.96ms
+[2017.12.13-23.12.43:581][518]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/TonyController751E2C184A9983538D6C83B8FD8AB148.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/TonyController.uasset'
+[2017.12.13-23.12.43:583][518]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/TonyController.uasset
+[2017.12.13-23.12.43:588][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/AgroCheck" FILE="../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset" SILENT=true
+[2017.12.13-23.12.43:655][518]LogSavePackage: Save=63.14ms
+[2017.12.13-23.12.43:655][518]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/AgroCheck4907739643F2322F2989FB9BDCDF9088.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset'
+[2017.12.13-23.12.43:658][518]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/AgroCheck.uasset
+[2017.12.13-23.12.43:662][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tony/RapidMoveTo" FILE="../../../../UnrealProjects/DSC/Content/Tony/RapidMoveTo.uasset" SILENT=true
+[2017.12.13-23.12.43:689][518]LogSavePackage: Save=21.81ms
+[2017.12.13-23.12.43:689][518]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/RapidMoveToAD38E6C74154C9611419C19BF30EBF49.tmp' to '../../../../UnrealProjects/DSC/Content/Tony/RapidMoveTo.uasset'
+[2017.12.13-23.12.43:691][518]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Tony/RapidMoveTo.uasset
+[2017.12.13-23.12.47:208][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.13-23.13.29:733][968]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-23.13.29:758][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-23.13.29:758][968]PIE: New page: PIE session: Playground (14/12/2017 1:13:29 am)
+[2017.12.13-23.13.29:758][968]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.13-23.13.29:765][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007548s)
+[2017.12.13-23.13.29:766][968]LogAIModule: Creating AISystem for world Playground
+[2017.12.13-23.13.29:767][968]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2017.12.13-23.13.29:767][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009016s)
+[2017.12.13-23.13.29:792][968]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-23.13.29:827][968]LogInit: FAudioDevice initialized.
+[2017.12.13-23.13.29:863][968]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-23.13.29:866][968]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.14-00.13.29
+[2017.12.13-23.13.29:867][968]LogWorld: Bringing up level for play took: 0.002724
+[2017.12.13-23.13.29:870][968]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.735
+[2017.12.13-23.13.30:265][990]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.13-23.13.30:282][991]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.13-23.13.30:632][ 12]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-23.13.34:066][218]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_0 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.13-23.13.34:266][230]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-23.13.34:266][230]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.13-23.13.34:333][234]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.13-23.13.34:333][234]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.13-23.13.34:416][239]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.13-23.13.34:583][249]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.13-23.13.34:816][263]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.13-23.13.36:551][367]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.13-23.13.37:832][444]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.13-23.13.38:816][503]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.13-23.13.38:866][506]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.13-23.13.38:866][506]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.13-23.13.38:899][508]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.13-23.13.38:899][508]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.13-23.13.38:966][512]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.13-23.13.38:966][512]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.13-23.13.38:982][513]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_1 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.13-23.13.38:999][514]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.13-23.13.38:999][514]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.13-23.13.39:082][519]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.13-23.13.39:082][519]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.13-23.13.39:233][528]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.13-23.14.04:268][568]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.13-23.14.04:330][568]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.13-23.14.04:591][569]Cmd: QUIT_EDITOR
+[2017.12.13-23.14.05:461][569]LogExit: Preparing to exit.
+[2017.12.13-23.14.06:080][569]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Content/' was aborted.
+[2017.12.13-23.14.06:121][569]LogExit: Editor shut down
+[2017.12.13-23.14.06:130][569]LogExit: Transaction tracking system shut down
+[2017.12.13-23.14.06:296][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.13-23.14.06:296][569]LogDirectoryWatcher: A directory notification for '../../../../UnrealProjects/DSC/Content/' was aborted.
+[2017.12.13-23.14.06:296][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.13-23.14.06:296][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.13-23.14.06:296][569]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.13-23.14.06:384][569]LogExit: Object subsystem successfully closed.
+[2017.12.13-23.14.06:404][569]LogD3D11RHI: Shutdown
+[2017.12.13-23.14.06:404][569]LogD3D11RHI: CleanupD3DDevice
+[2017.12.13-23.14.06:407][569]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.13-23.14.06:419][569]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (542)
+[2017.12.13-23.14.06:419][569]LogModuleManager: Shutting down and abandoning module BlueprintGraph (540)
+[2017.12.13-23.14.06:419][569]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (538)
+[2017.12.13-23.14.06:419][569]LogModuleManager: Shutting down and abandoning module SceneOutliner (536)
+[2017.12.13-23.14.06:419][569]LogModuleManager: Shutting down and abandoning module AddContentDialog (534)
+[2017.12.13-23.14.06:419][569]LogDirectoryWatcher: A directory notification for 'D:/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module WidgetCarousel (533)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module EditorWidgets (530)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module CollectionManager (528)
+[2017.12.13-23.14.06:420][569]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Content/Collections/' was aborted.
+[2017.12.13-23.14.06:420][569]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Content/Developers/Nicolaas/Collections/' was aborted.
+[2017.12.13-23.14.06:420][569]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Saved/Collections/' was aborted.
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module StatsViewer (526)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module FoliageEdit (524)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module LandscapeEditor (522)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module MeshPaintMode (520)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (518)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module ActorPickerMode (516)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module GeometryMode (514)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module TextureAlignMode (512)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module BspMode (510)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (508)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module HardwareSurvey (506)
+[2017.12.13-23.14.06:420][569]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (504)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AutomationWorker (502)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (500)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (498)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module PlacementMode (497)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (494)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (492)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (490)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (488)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (486)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (478)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (461)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.12.13-23.14.06:421][569]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.12.13-23.14.06:422][569]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.12.13-23.14.06:760][569]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.12.13-23.14.06:824][569]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.12.13-23.14.06:833][569]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (358)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module LauncherPlatform (356)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module AnalyticsET (354)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module PortalServices (352)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module PortalRpc (350)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module MessagingRpc (348)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module AIModule (346)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module GameplayDebugger (345)
+[2017.12.13-23.14.06:835][569]LogModuleManager: Shutting down and abandoning module AITestSuite (343)
+[2017.12.13-23.14.06:836][569]LogModuleManager: Shutting down and abandoning module DesktopPlatform (340)
+[2017.12.13-23.14.06:836][569]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (334)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (332)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (328)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module CableComponent (326)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (324)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module AndroidPermission (322)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module ActorSequence (318)
+[2017.12.13-23.14.06:848][569]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (316)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (314)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module MediaCompositing (312)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (292)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.12.13-23.14.06:849][569]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2017.12.13-23.14.06:850][569]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (254)
+[2017.12.13-23.14.06:851][569]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (252)
+[2017.12.13-23.14.06:851][569]LogModuleManager: Shutting down and abandoning module UdpMessaging (250)
+[2017.12.13-23.14.06:952][569]LogModuleManager: Shutting down and abandoning module TcpMessaging (248)
+[2017.12.13-23.14.07:052][569]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (246)
+[2017.12.13-23.14.07:052][569]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (244)
+[2017.12.13-23.14.07:052][569]LogModuleManager: Shutting down and abandoning module FacialAnimation (242)
+[2017.12.13-23.14.07:052][569]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (240)
+[2017.12.13-23.14.07:052][569]LogModuleManager: Shutting down and abandoning module GraphEditor (239)
+[2017.12.13-23.14.07:052][569]LogModuleManager: Shutting down and abandoning module ContentBrowser (237)
+[2017.12.13-23.14.07:053][569]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2017.12.13-23.14.07:053][569]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2017.12.13-23.14.07:053][569]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2017.12.13-23.14.07:053][569]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2017.12.13-23.14.07:053][569]LogModuleManager: Shutting down and abandoning module ImgMedia (226)
+[2017.12.13-23.14.07:054][569]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2017.12.13-23.14.07:054][569]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2017.12.13-23.14.07:054][569]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2017.12.13-23.14.07:054][569]LogModuleManager: Shutting down and abandoning module MediaAssets (218)
+[2017.12.13-23.14.07:054][569]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module Overlay (214)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module OverlayEditor (213)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.13-23.14.07:060][569]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2017.12.13-23.14.07:062][569]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (162)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module KismetCompiler (160)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module MeshUtilities (158)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (157)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (156)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (155)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (153)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (151)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module MaterialBaking (147)
+[2017.12.13-23.14.07:063][569]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.13-23.14.07:128][569]LogDerivedDataCache: Shutdown
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.13-23.14.07:128][569]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (95)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (93)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (91)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (89)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (87)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (85)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (83)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (81)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.13-23.14.07:129][569]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.13-23.14.07:129][569]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.12.13-23.14.07:129][569]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB015447A-40CD-70CE-32B1-7E801DFBA619%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=1b57ede44761d298b1857fb68275d256%7Cc7ca512f0b2d46b4ac38a990ee62864d%7C27d75541-00f4-4ae7-8a28-61bb13cd5131&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.13-23.14.07:129][569]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB015447A-40CD-70CE-32B1-7E801DFBA619%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=1b57ede44761d298b1857fb68275d256%7Cc7ca512f0b2d46b4ac38a990ee62864d%7C27d75541-00f4-4ae7-8a28-61bb13cd5131&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.13-23.14.07:138][569]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.13-23.14.07:139][569]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.13-23.14.07:139][569]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.13-23.14.07:139][569]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.13-23.14.07:139][569]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.13-23.14.07:140][569]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.13-23.14.07:140][569]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.13-23.14.07:140][569]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.13-23.14.07:142][569]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.13-23.14.07:146][569]LogExit: Exiting.
+[2017.12.13-23.14.07:156][569]Log file closed, 12/14/17 00:14:07

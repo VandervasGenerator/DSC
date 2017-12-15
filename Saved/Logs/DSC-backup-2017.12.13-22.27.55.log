@@ -1,0 +1,1811 @@
+﻿Log file open, 12/13/17 00:00:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DSC
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1645422315) SRandInit(-1645422315).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173278
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.12-23.00.33:182][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.12-23.00.33:182][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.12-23.00.33:193][  0]LogInit: Computer: STEVE
+[2017.12.12-23.00.33:193][  0]LogInit: User: Nicolaas
+[2017.12.12-23.00.33:193][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.12-23.00.33:193][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2017.12.12-23.00.33:194][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.12.12-23.00.33:194][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.12-23.00.33:194][  0]LogMemory: Process Physical Memory: 271.25 MB used, 271.25 MB peak
+[2017.12.12-23.00.33:194][  0]LogMemory: Process Virtual Memory: 269.55 MB used, 269.55 MB peak
+[2017.12.12-23.00.33:194][  0]LogMemory: Physical Memory: 8404.91 MB used,  16106.99 MB free, 24511.89 MB total
+[2017.12.12-23.00.33:194][  0]LogMemory: Virtual Memory: 626.78 MB used,  16106.99 MB free, 134217728.00 MB total
+[2017.12.12-23.00.33:316][  0]LogInit: Using OS detected language (en-US).
+[2017.12.12-23.00.33:316][  0]LogInit: Using OS detected locale (en-NZ).
+[2017.12.12-23.00.33:321][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.12-23.00.33:767][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.12-23.00.34:025][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.12-23.00.34:079][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.12-23.00.34:079][  0]LogD3D11RHI:       8089/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.12-23.00.34:080][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.12-23.00.34:080][  0]LogD3D11RHI:       0/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.12-23.00.34:080][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.12-23.00.34:089][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.12-23.00.34:089][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.12-23.00.34:089][  0]LogWindows: EnumDisplayDevices:
+[2017.12.12-23.00.34:089][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.12-23.00.34:089][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.12-23.00.34:089][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.12-23.00.34:090][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.12-23.00.34:090][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.12-23.00.34:090][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.12-23.00.34:090][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.12.12-23.00.34:090][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.12.12-23.00.34:090][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2017.12.12-23.00.34:120][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.12-23.00.34:133][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.12-23.00.34:179][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProjects/DSC/Intermediate/Shaders/WorkingDirectory/15164/).
+[2017.12.12-23.00.34:179][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nicolaas/AppData/Local/Temp/UnrealShaderWorkingDir/417C50594E9EC8229F9560A8695BB409/'.
+[2017.12.12-23.00.34:179][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.12-23.00.35:140][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.12-23.00.35:183][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.12-23.00.35:226][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.12-23.00.35:268][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.12-23.00.35:312][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.12-23.00.35:356][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.12-23.00.35:399][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.12-23.00.35:458][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.12-23.00.35:498][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.12-23.00.35:545][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.12-23.00.35:601][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.12-23.00.35:651][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.12-23.00.35:701][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.12-23.00.35:747][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.12-23.00.35:841][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.12-23.00.35:841][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.12-23.00.35:888][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.12-23.00.35:920][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.12-23.00.36:002][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.12-23.00.36:025][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.12-23.00.36:068][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.12-23.00.36:110][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.12-23.00.36:157][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.12-23.00.36:206][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.12-23.00.36:206][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.12-23.00.36:593][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.12-23.00.36:688][  0]LogDerivedDataCache: Loaded boot cache 0.09s 90MB C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.12-23.00.36:688][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.12-23.00.36:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/DSC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.12-23.00.36:688][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.12-23.00.36:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/DSC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.12-23.00.36:688][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.12-23.00.36:705][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.12-23.00.36:719][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nicolaas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.12-23.00.36:731][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.12-23.00.36:732][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.12-23.00.36:732][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.12-23.00.36:732][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.12-23.00.37:115][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.12-23.00.37:409][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.12-23.00.37:439][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.12-23.00.37:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.12-23.00.37:440][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.12-23.00.37:440][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.12-23.00.37:440][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.12-23.00.37:470][  0]LogNetVersion: DSC , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 391328305)
+[2017.12.12-23.00.37:642][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.12.12-23.00.38:121][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.038223 seconds
+[2017.12.12-23.00.38:125][  0]LogUObjectArray: 35489 objects as part of root set at end of initial load.
+[2017.12.12-23.00.38:125][  0]LogUObjectAllocator: 7292136 out of 0 bytes used by permanent object pool.
+[2017.12.12-23.00.38:125][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.12-23.00.38:161][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.12-23.00.40:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.12-23.00.40:793][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.12-23.00.41:325][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.12-23.00.41:722][  0]SourceControl: Source control is disabled
+[2017.12.12-23.00.43:091][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.12-23.00.43:491][  0]LogEngine: Initializing Engine...
+[2017.12.12-23.00.43:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.12-23.00.43:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.12-23.00.43:827][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.12-23.00.43:836][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.00.43:932][  0]LogInit: FAudioDevice initialized.
+[2017.12.12-23.00.44:021][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Nicolaas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.12-23.00.44:035][  0]LogInit: Texture streaming: Enabled
+[2017.12.12-23.00.44:107][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.12-23.00.44:209][  0]LogInit: Transaction tracking system initialized
+[2017.12.12-23.00.44:441][  0]BlueprintLog: New page: Editor Load
+[2017.12.12-23.00.45:098][  0]LocalizationService: Localization service is disabled
+[2017.12.12-23.00.45:693][  0]LogConsoleResponse: Display: 
+[2017.12.12-23.00.45:870][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.12-23.00.45:870][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.12-23.00.45:870][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.12-23.00.46:866][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Content/' took 0.01s
+[2017.12.12-23.00.46:905][  0]Cmd: MAP LOAD FILE="../../../../UnrealProjects/DSC/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-23.00.46:905][  0]LightingResults: New page: Lighting Build
+[2017.12.12-23.00.46:941][  0]MapCheck: New page: Map Check
+[2017.12.12-23.00.46:941][  0]LightingResults: New page: Lighting Build
+[2017.12.12-23.00.47:634][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.12.12-23.00.47:648][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-23.00.47:662][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-23.00.47:722][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.241ms to complete.
+[2017.12.12-23.00.47:722][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.817
+[2017.12.12-23.00.47:873][  0]LogCollectionManager: Loaded 0 collections in 0.001551 seconds
+[2017.12.12-23.00.47:948][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Saved/Collections/' took 0.01s
+[2017.12.12-23.00.47:948][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Content/Developers/Nicolaas/Collections/' took 0.01s
+[2017.12.12-23.00.47:948][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/DSC/Content/Collections/' took 0.01s
+[2017.12.12-23.00.47:948][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.12-23.00.47:958][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2356 classes and 510 folders.
+[2017.12.12-23.00.48:007][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.12-23.00.48:054][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.12-23.00.48:086][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.12-23.00.48:167][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-23.00.48:169][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.12-23.00.48:174][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.12-23.00.48:280][  0]LogRenderer: Reallocating scene render targets to support 1116x640 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-23.00.48:448][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.12-23.00.48:448][  0]LogLoad: (Engine Initialization) Total time: 17.51 seconds
+[2017.12.12-23.00.48:448][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.12-23.00.48:448][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.12-23.00.48:448][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.12-23.00.48:813][  0]SourceControl: On branch master
+[2017.12.12-23.00.48:813][  0]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2017.12.12-23.00.48:813][  0]SourceControl:   (use "git push" to publish your local commits)
+[2017.12.12-23.00.48:813][  0]SourceControl: Changes to be committed:
+[2017.12.12-23.00.48:813][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.12-23.00.48:813][  0]SourceControl: 	new file:   Content/Interaction/InteractMasterBP.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	new file:   Content/Interaction/OutlineMaterial.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	new file:   Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	new file:   Content/Interaction/PickupComponent.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	new file:   Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: Changes not staged for commit:
+[2017.12.12-23.00.48:813][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.12-23.00.48:813][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Config/DefaultGame.ini
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/Geometry/Meshes/DSC_Shelf_model.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/Interaction/InteractMasterBP.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/Levels/Playground.umap
+[2017.12.12-23.00.48:813][  0]SourceControl: 	modified:   Content/Levels/Playground_BuiltData.uasset
+[2017.12.12-23.00.48:813][  0]SourceControl: 	deleted:    DeepSpaceCouncelling.uproject
+[2017.12.12-23.00.48:813][  0]SourceControl: Untracked files:
+[2017.12.12-23.00.48:813][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.12-23.00.48:813][  0]SourceControl: 	Content/Interaction/OutlineMaterial/
+[2017.12.12-23.00.48:813][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.12-23.00.48:847][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-23.00.49:133][  1]LogAssetRegistry: Asset discovery search completed in 11.5126 seconds
+[2017.12.12-23.00.49:134][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.12-23.00.49:134][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2017.12.12-23.01.04:161][825]SourceControl: On branch master
+[2017.12.12-23.01.04:161][825]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2017.12.12-23.01.04:161][825]SourceControl:   (use "git push" to publish your local commits)
+[2017.12.12-23.01.04:161][825]SourceControl: Changes to be committed:
+[2017.12.12-23.01.04:162][825]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.12-23.01.04:162][825]SourceControl: 	new file:   Content/Interaction/InteractMasterBP.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	new file:   Content/Interaction/OutlineMaterial.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	new file:   Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	new file:   Content/Interaction/PickupComponent.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	new file:   Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: Changes not staged for commit:
+[2017.12.12-23.01.04:162][825]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.12-23.01.04:162][825]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Config/DefaultGame.ini
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/Geometry/Meshes/DSC_Shelf_model.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/Interaction/InteractMasterBP.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/Levels/Playground.umap
+[2017.12.12-23.01.04:162][825]SourceControl: 	modified:   Content/Levels/Playground_BuiltData.uasset
+[2017.12.12-23.01.04:162][825]SourceControl: 	deleted:    DeepSpaceCouncelling.uproject
+[2017.12.12-23.01.04:162][825]SourceControl: Untracked files:
+[2017.12.12-23.01.04:162][825]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.12-23.01.04:162][825]SourceControl: 	Content/Interaction/OutlineMaterial/
+[2017.12.12-23.01.07:664][ 35]SourceControl: fatal: D:/UE_4.18/Engine/Content/: 'D:/UE_4.18/Engine/Content/' is outside repository
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:773][ 35]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2017.12.12-23.01.07:775][ 35]EditorErrors: Warning: No assets to check in!
+[2017.12.12-23.01.22:405][821]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-23.01.23:963][821]SourceControl: rm 'Content/DSC_FireBlaster_model_Blueprint.uasset'
+[2017.12.12-23.01.44:165][ 25]SourceControl: Source control is disabled
+[2017.12.12-23.01.54:405][608]SourceControl: On branch master
+[2017.12.12-23.01.54:405][608]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2017.12.12-23.01.54:405][608]SourceControl:   (use "git push" to publish your local commits)
+[2017.12.12-23.01.54:405][608]SourceControl: Changes to be committed:
+[2017.12.12-23.01.54:405][608]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.12-23.01.54:405][608]SourceControl: 	deleted:    Content/DSC_FireBlaster_model_Blueprint.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	new file:   Content/Interaction/InteractMasterBP.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	new file:   Content/Interaction/OutlineMaterial.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	new file:   Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	new file:   Content/Interaction/PickupComponent.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	new file:   Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: Changes not staged for commit:
+[2017.12.12-23.01.54:405][608]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.12-23.01.54:405][608]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Config/DefaultGame.ini
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/Geometry/Meshes/DSC_Shelf_model.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/Interaction/InteractMasterBP.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/Levels/Playground.umap
+[2017.12.12-23.01.54:405][608]SourceControl: 	modified:   Content/Levels/Playground_BuiltData.uasset
+[2017.12.12-23.01.54:405][608]SourceControl: 	deleted:    DeepSpaceCouncelling.uproject
+[2017.12.12-23.01.54:405][608]SourceControl: Untracked files:
+[2017.12.12-23.01.54:405][608]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.12-23.01.54:405][608]SourceControl: 	Content/Interaction/OutlineMaterial/
+[2017.12.12-23.02.45:483][297]SourceControl: Error: fatal: Not a git repository: 'D:/UnrealProjects/DSC/.git'
+[2017.12.12-23.02.45:483][297]SourceControl: Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2017.12.12-23.03.38:932][971]SourceControl: On branch master
+[2017.12.12-23.03.38:932][971]SourceControl: nothing to commit, working tree clean
+[2017.12.12-23.15.19:376][667]Cmd: MAP LOAD FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-23.15.19:390][667]LightingResults: New page: Lighting Build
+[2017.12.12-23.15.19:391][667]LoadErrors: New page: Loading map: Playground.umap
+[2017.12.12-23.15.19:393][667]MapCheck: New page: Map Check
+[2017.12.12-23.15.19:393][667]LightingResults: New page: Lighting Build
+[2017.12.12-23.15.19:528][667]LogLinker: Warning: Asset '../../../../UnrealProjects/DSC/Content/Interaction/OutlineMaterial/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.12-23.15.19:531][667]LogLinker: Warning: Asset '../../../../UnrealProjects/DSC/Content/Interaction/OutlineMaterial/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.12-23.15.19:533][667]LogLinker: Warning: Asset '../../../../UnrealProjects/DSC/Content/Interaction/OutlineMaterial/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2017.12.12-23.15.19:686][667]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.15.19:749][667]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-23.15.19:783][667]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-23.15.19:859][667]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.92ms to complete.
+[2017.12.12-23.15.19:859][667]LogFileHelpers: Loading map 'Playground' took 0.484
+[2017.12.12-23.15.26:045][ 17]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2017.12.12-23.15.26:680][ 17]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-23.15.26:761][ 17]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.12-23.15.27:149][ 18]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.12-23.17.57:566][245]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.12-23.18.04:960][674]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.12-23.19.23:711][235]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.12-23.21.38:109][161]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.12-23.21.44:903][483]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.12-23.21.44:982][484]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DSC
+[2017.12.12-23.21.44:982][484]LogTemp: CWD: D:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.12-23.21.44:983][484]LogTemp: Initial Dir: D:\UE_4.18
+[2017.12.12-23.21.44:983][484]LogTemp: Env CWD: D:\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.12-23.21.45:003][485]LogTemp: BranchPath = STEVE/D/UE_4.18/Engine/Binaries --- GameBranchPath = STEVE/D/UE_4.18/Engine/Binaries
+[2017.12.12-23.21.45:003][485]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Nicolaas\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.12-23.21.58:997][320]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.21.59:059][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.21.59:060][320]PIE: New page: PIE session: Playground (13/12/2017 1:21:59 am)
+[2017.12.12-23.21.59:060][320]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.21.59:069][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008539s)
+[2017.12.12-23.21.59:070][320]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.21.59:070][320]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.12.12-23.21.59:070][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009682s)
+[2017.12.12-23.21.59:090][320]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.21.59:124][320]LogInit: FAudioDevice initialized.
+[2017.12.12-23.21.59:172][320]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.21.59:176][320]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.21.59
+[2017.12.12-23.21.59:176][320]LogWorld: Bringing up level for play took: 0.001705
+[2017.12.12-23.21.59:212][320]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.12-23.21.59:215][320]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.061
+[2017.12.12-23.22.17:549][349]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.12-23.22.20:126][476]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.22.20:139][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.22.20:140][476]PIE: New page: PIE session: Playground (13/12/2017 1:22:20 am)
+[2017.12.12-23.22.20:140][476]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.22.20:146][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005747s)
+[2017.12.12-23.22.20:146][476]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.22.20:147][476]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2017.12.12-23.22.20:147][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.007139s)
+[2017.12.12-23.22.20:168][476]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.22.20:200][476]LogInit: FAudioDevice initialized.
+[2017.12.12-23.22.20:235][476]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.22.20:237][476]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.22.20
+[2017.12.12-23.22.20:237][476]LogWorld: Bringing up level for play took: 0.001232
+[2017.12.12-23.22.20:240][476]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 1.085
+[2017.12.12-23.22.20:404][484]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.22.20:604][496]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.22.26:007][820]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.22.26:155][829]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.22.26:322][839]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.22.26:555][853]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.22.26:756][865]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.22.29:072][  4]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_0 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.22.29:421][ 25]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.22.37:623][517]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.22.37:657][519]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.22.37:657][519]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.22.37:690][521]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.22.43:474][868]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.12-23.22.43:673][880]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.12-23.22.43:706][882]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.22.43:873][892]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.22.43:873][892]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.22.43:956][897]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.22.43:956][897]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.22.45:373][982]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.22.45:373][982]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.22.45:390][983]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.22.55:396][537]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.12-23.22.57:688][647]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.22.57:702][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.22.57:702][647]PIE: New page: PIE session: Playground (13/12/2017 1:22:57 am)
+[2017.12.12-23.22.57:702][647]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.22.57:709][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006428s)
+[2017.12.12-23.22.57:709][647]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.22.57:710][647]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2017.12.12-23.22.57:710][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.007731s)
+[2017.12.12-23.22.57:732][647]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.22.57:764][647]LogInit: FAudioDevice initialized.
+[2017.12.12-23.22.57:794][647]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.22.57:796][647]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.22.57
+[2017.12.12-23.22.57:797][647]LogWorld: Bringing up level for play took: 0.001242
+[2017.12.12-23.22.57:799][647]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.644
+[2017.12.12-23.23.05:467][105]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.23.07:513][228]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.23.17:316][816]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.17:717][840]LogBlueprintUserMessages: [PhotoFrame_43] Look at me!
+[2017.12.12-23.23.17:950][854]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.18:150][866]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.18:817][906]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.18:833][907]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.19:050][920]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.19:249][932]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.19:433][943]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.19:466][945]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.19:484][946]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.19:949][974]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_0 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.23.20:250][992]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.20:283][994]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.20:767][ 23]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.20:900][ 31]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.21:050][ 40]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.21:933][ 93]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.22:450][124]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.22:900][151]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.22:983][156]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.26:190][348]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.27:557][430]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.27:790][444]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.30:057][580]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.32:873][749]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.33:523][788]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.34:225][830]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.34:826][866]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.35:776][923]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.36:275][953]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.36:725][980]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.36:725][980]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.23.36:743][981]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.23.36:743][981]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.12-23.23.37:591][ 32]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_1 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.23.38:359][ 78]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.38:660][ 96]LogBlueprintUserMessages: [PhotoFrame_43] Look at me!
+[2017.12.12-23.23.42:326][316]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.42:443][323]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.42:609][333]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.43:809][405]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.23.44:711][459]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_2 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.23.45:076][481]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.23.45:076][481]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.23.45:944][533]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.23.46:560][570]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.23.47:360][618]LogBlueprintUserMessages: [InteractMasterBP_176] You've looked at this for 1 seconds (2 seconds in total)
+[2017.12.12-23.23.47:493][626]LogBlueprintUserMessages: [InteractMasterBP_176] End Interact
+[2017.12.12-23.23.47:960][654]LogBlueprintUserMessages: [InteractMasterBP_176] You've looked at this for 1 seconds (2 seconds in total)
+[2017.12.12-23.23.48:076][661]LogBlueprintUserMessages: [InteractMasterBP_176] End Interact
+[2017.12.12-23.23.48:327][676]LogBlueprintUserMessages: [InteractMasterBP_176] You've looked at this for 2 seconds (3 seconds in total)
+[2017.12.12-23.23.48:426][682]LogBlueprintUserMessages: [InteractMasterBP_176] End Interact
+[2017.12.12-23.23.48:627][694]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.23.48:943][713]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.23.49:961][774]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.23.50:262][792]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.23.51:360][858]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.23.51:360][858]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.23.51:411][861]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.23.52:944][953]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.23.54:377][ 39]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_3 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.23.54:994][ 76]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.23.54:994][ 76]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.23.56:144][145]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.23.56:311][155]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.23.57:628][234]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.23.58:344][277]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.24.00:011][377]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.24.00:914][431]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.24.05:996][736]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_4 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.05:997][736]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.24.07:547][829]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.24.08:698][898]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.24.09:230][930]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.24.13:231][170]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_5 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.15:864][328]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_6 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.18:348][477]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.24.19:898][570]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.24.22:917][751]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_7 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.23:302][774]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.24.28:010][ 56]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.24.28:093][ 61]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.24.28:093][ 61]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.24.28:810][104]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.24.28:810][104]LogBlueprintUserMessages: [PhotoFrame_43] Hi!
+[2017.12.12-23.24.29:443][142]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_8 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.31:293][253]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.24.31:410][260]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.24.31:627][273]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.24.32:227][309]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.24.32:393][319]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.24.32:443][322]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_9 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.32:443][322]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.24.35:543][508]LogBlueprintUserMessages: [PhotoFrame_43] Bye then!
+[2017.12.12-23.24.35:560][509]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.24.35:577][510]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_10 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.24.35:593][511]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.25.56:341][351]Cmd: SELECT NONE
+[2017.12.12-23.27.28:358][854]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-23.27.37:396][394]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Playground' took 0.019
+[2017.12.12-23.27.37:399][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2017.12.12-23.27.37:414][394]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2017.12.12-23.27.37:414][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2017.12.12-23.27.37:680][394]LogSavePackage: Save=260.84ms
+[2017.12.12-23.27.37:680][394]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/FirstPersonCharacter_Auto13666518D4D7DE0DFA0E0738FDB1022EA.tmp' to '../../../../UnrealProjects/DSC/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2017.12.12-23.27.37:681][394]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.12-23.27.37:681][394]LogFileHelpers: Auto-saving content packages took 0.284
+[2017.12.12-23.29.40:791][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProjects/DSC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2017.12.12-23.29.41:048][771]LogSavePackage: Save=252.43ms
+[2017.12.12-23.29.41:048][771]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/FirstPersonCharacterB43C753040289F44C7EFF785D08C2B44.tmp' to '../../../../UnrealProjects/DSC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.12.12-23.29.41:051][771]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.12-23.30.05:055][195]SourceControl: Error: fatal: Invalid path '/Script': No such file or directory
+[2017.12.12-23.30.44:173][498]LogEditorViewport: Clicking on Actor (LMB): PickupMasterBP_C (PickupMasterBP)
+[2017.12.12-23.30.52:144][932]BlueprintLog: New page: Compile PickupMasterBP
+[2017.12.12-23.31.31:922][ 67]SourceControl: On branch master
+[2017.12.12-23.31.31:922][ 67]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.12-23.31.31:922][ 67]SourceControl: Changes to be committed:
+[2017.12.12-23.31.31:922][ 67]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	new file:   DSC.png
+[2017.12.12-23.31.31:922][ 67]SourceControl: Changes not staged for commit:
+[2017.12.12-23.31.31:922][ 67]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.12-23.31.31:922][ 67]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Config/DefaultGame.ini
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.12-23.31.31:922][ 67]SourceControl: Untracked files:
+[2017.12.12-23.31.31:922][ 67]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.12-23.31.31:922][ 67]SourceControl: 	Saved/Backup/FirstPersonCharacter_2017-12-13-00-27-37.uasset
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP_C' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.PhotoFrameBP:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:668][ 67]LogMetaData: Removing '/Game/Interaction/PhotoFrameBP.SKEL_PhotoFrameBP_C' ref from Metadata '/Game/Interaction/PhotoFrame.PackageMetaData'
+[2017.12.12-23.31.32:715][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PhotoFrameBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset" SILENT=true
+[2017.12.12-23.31.32:740][ 67]LogSavePackage: Save=24.07ms
+[2017.12.12-23.31.32:740][ 67]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PhotoFrameBP2D8569F14B9B2C5BB2A09E82B7B40A99.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset'
+[2017.12.12-23.31.32:743][ 67]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset
+[2017.12.12-23.31.33:027][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PhotoFrame" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrame.uasset" SILENT=true
+[2017.12.12-23.31.33:032][ 67]LogSavePackage: Save=1.36ms
+[2017.12.12-23.31.33:032][ 67]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PhotoFrameEB7C23ED41E829DDF5F7D1A1A4C03145.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrame.uasset'
+[2017.12.12-23.31.33:034][ 67]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrame.uasset
+[2017.12.12-23.31.39:895][436]LogRenderer: Reallocating scene render targets to support 1268x696 Format 10 NumSamples 1 (Frame:104).
+[2017.12.12-23.32.14:063][196]BlueprintLog: New page: Compile PowerCoreBP
+[2017.12.12-23.32.27:511][904]LogActorFactory: Actor Factory created DSC_EnergyCapsule_model
+[2017.12.12-23.32.29:248][  7]LogActorFactory: Actor Factory created DSC_EnergyCapsule_model
+[2017.12.12-23.32.29:622][ 29]LogActorFactory: Actor Factory created DSC_EnergyCapsule_model
+[2017.12.12-23.32.31:019][110]Cmd: DELETE
+[2017.12.12-23.32.31:019][110]Cmd: ACTOR DELETE
+[2017.12.12-23.32.31:021][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.12-23.32.31:041][110]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.12.12-23.32.42:445][791]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.32.42:461][791]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.12-23.32.42:474][791]LogPlayLevel: [PlayLevel] Compiling PickupMasterBP before play...
+[2017.12.12-23.32.42:484][791]LogPlayLevel: [PlayLevel]   Compiling PhotoFrameBP as a dependent...
+[2017.12.12-23.32.42:485][791]LogPlayLevel: [PlayLevel]   Compiling PowerCoreBP as a dependent...
+[2017.12.12-23.32.43:390][791]LogPlayLevel: PlayLevel: Blueprint regeneration took 929 ms (3 blueprints)
+[2017.12.12-23.32.43:390][791]PIE: New page: PIE session: Playground (13/12/2017 1:32:43 am)
+[2017.12.12-23.32.43:390][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.32.43:397][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006770s)
+[2017.12.12-23.32.43:398][791]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.32.43:398][791]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2017.12.12-23.32.43:398][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008228s)
+[2017.12.12-23.32.43:421][791]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.32.43:454][791]LogInit: FAudioDevice initialized.
+[2017.12.12-23.32.43:487][791]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.32.43:489][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.32.43
+[2017.12.12-23.32.43:490][791]LogWorld: Bringing up level for play took: 0.001323
+[2017.12.12-23.32.43:492][791]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.338
+[2017.12.12-23.32.46:829][990]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.47:679][ 41]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.47:912][ 55]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.48:012][ 61]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.48:096][ 66]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.48:745][105]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.49:129][128]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.49:212][133]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.49:229][134]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.49:762][166]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.49:945][177]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.50:612][217]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.51:113][247]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.51:429][266]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_0 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.32.51:615][277]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.51:779][287]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.52:446][327]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.52:829][350]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.53:162][370]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.53:246][375]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_1 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.32.53:246][375]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.53:412][385]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.53:512][391]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.53:632][398]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.54:846][471]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.54:963][478]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.55:129][488]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.57:530][632]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.58:163][670]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.58:198][672]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.58:230][674]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.58:879][713]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.58:913][715]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.59:080][725]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.59:130][728]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.32.59:563][754]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.32.59:680][761]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.00:330][800]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.00:696][822]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.00:796][828]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.01:247][855]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.01:447][867]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.01:480][869]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.01:663][880]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.02:163][910]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_2 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.02:747][945]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.03:030][962]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.04:397][ 44]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.04:447][ 47]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.05:130][ 88]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.05:780][127]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.06:280][157]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.06:547][173]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.07:397][224]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.07:414][225]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.07:430][226]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.07:780][247]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.07:930][256]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.08:030][262]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_3 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.08:231][274]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.08:481][289]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.08:598][296]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.08:598][296]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.09:781][367]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.09:964][378]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.10:631][418]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.10:631][418]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.10:881][433]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.10:881][433]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.11:314][459]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.11:314][459]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.11:714][483]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.11:714][483]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.11:850][491]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.11:881][493]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.11:965][498]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.12:314][519]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.12:564][534]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.12:697][542]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_4 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.13:064][564]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.13:481][589]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.14:281][637]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.14:331][640]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.14:497][650]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.14:931][676]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.14:998][680]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.15:365][702]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.15:531][712]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.15:914][735]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.16:349][761]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.16:415][765]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.17:632][838]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.18:116][867]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.18:348][881]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.18:398][884]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.18:417][885]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:099][926]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:232][934]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:265][936]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:400][944]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:433][946]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:515][951]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:532][952]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:616][957]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:632][958]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:748][965]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:765][966]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:882][973]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:898][974]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.19:982][979]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.19:999][980]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.20:182][991]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.20:199][992]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.20:299][998]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.20:316][999]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.20:382][  3]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.20:399][  4]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.20:699][ 22]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.20:882][ 33]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.21:249][ 55]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.21:266][ 56]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.21:366][ 62]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.21:382][ 63]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.21:432][ 66]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.21:465][ 68]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.21:999][100]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.22:032][102]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.22:100][106]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.22:116][107]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.22:266][116]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.22:282][117]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.22:316][119]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.22:333][120]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.22:349][121]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_5 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.25:361][301]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.33.25:413][304]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.33.25:728][323]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.33.25:744][324]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.33.25:761][325]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.33.26:095][345]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.33.26:095][345]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.33.26:111][346]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.33.36:129][947]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.36:246][954]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.36:629][977]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.37:163][  9]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.37:563][ 33]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.37:614][ 36]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.38:463][ 87]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_6 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.38:614][ 96]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.38:680][100]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.41:197][251]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.41:380][262]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.41:430][265]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.41:615][276]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.41:897][293]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.41:914][294]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.41:947][296]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.42:047][302]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.42:064][303]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.42:147][308]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.42:914][354]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.43:297][377]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.44:397][443]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_7 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.44:747][464]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.44:764][465]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.45:333][499]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.45:364][501]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.46:647][578]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.47:365][621]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.47:564][633]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.12-23.33.47:614][636]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.12-23.33.47:614][636]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.33.47:666][639]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.33.47:681][640]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_8 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.48:248][674]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.33.48:298][677]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.33.48:333][679]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.33.48:464][687]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.33.48:498][689]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.49:164][729]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.49:231][733]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.49:781][766]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.49:981][778]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.50:398][803]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.51:064][843]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.51:148][848]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.51:165][849]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.12-23.33.51:199][851]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_9 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.33.51:199][851]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.12-23.33.51:214][852]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.33.51:264][855]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.33.51:647][878]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.33.52:081][904]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.33.52:081][904]LogBlueprintUserMessages: [PhotoFrame2_21] Hi!
+[2017.12.12-23.33.52:166][909]LogBlueprintUserMessages: [PhotoFrame2_21] Bye then!
+[2017.12.12-23.33.52:166][909]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.33.52:414][924]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.33.57:220][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-23.33.57:313][186]LogSavePackage: Save=69.02ms
+[2017.12.12-23.33.57:313][186]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground5C21D0A84301AB3BD7E570AA3F99311E.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.12-23.33.57:316][186]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.12-23.33.57:336][186]LogFileHelpers: Saving map 'Playground' took 0.242
+[2017.12.12-23.33.57:354][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PickupMasterBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset" SILENT=true
+[2017.12.12-23.33.57:427][186]LogSavePackage: Save=69.99ms
+[2017.12.12-23.33.57:427][186]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PickupMasterBPB7CA748D4D84671903DF6086847F0FAC.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset'
+[2017.12.12-23.33.57:430][186]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.33.57:446][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PowerCoreBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset" SILENT=true
+[2017.12.12-23.33.57:470][186]LogSavePackage: Save=22.53ms
+[2017.12.12-23.33.57:470][186]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PowerCoreBP1F0C61794CBCCF846CD1E3AC2918DFCB.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset'
+[2017.12.12-23.33.57:472][186]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.28:903][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECanBeCharacterBase' with an invalid value of ''
+[2017.12.12-23.34.31:953][206]BlueprintLog: New page: Compile PickupMasterBP
+[2017.12.12-23.34.47:423][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-23.34.47:505][ 50]LogSavePackage: Save=60.24ms
+[2017.12.12-23.34.47:505][ 50]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground62FC196942DEE2EDD5F86F9425AD6603.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.12-23.34.47:508][ 50]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.12-23.34.47:527][ 50]LogFileHelpers: Saving map 'Playground' took 0.179
+[2017.12.12-23.34.47:543][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PickupMasterBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset" SILENT=true
+[2017.12.12-23.34.47:615][ 50]LogSavePackage: Save=69.44ms
+[2017.12.12-23.34.47:615][ 50]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PickupMasterBP63204D5348AC01CBF1F2EA889DCE3B33.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset'
+[2017.12.12-23.34.47:618][ 50]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.34.47:637][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PowerCoreBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset" SILENT=true
+[2017.12.12-23.34.47:663][ 50]LogSavePackage: Save=21.77ms
+[2017.12.12-23.34.47:663][ 50]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PowerCoreBP93CB541B4C83F09A041B11AC6775A10C.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset'
+[2017.12.12-23.34.47:666][ 50]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset
+[2017.12.12-23.34.47:669][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PhotoFrameBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset" SILENT=true
+[2017.12.12-23.34.47:687][ 50]LogSavePackage: Save=14.32ms
+[2017.12.12-23.34.47:687][ 50]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PhotoFrameBPEB2AE4AF4AB969629DBC01B5776B881C.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset'
+[2017.12.12-23.34.47:689][ 50]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset
+[2017.12.12-23.34.49:350][149]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.34.49:379][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.34.49:380][149]PIE: New page: PIE session: Playground (13/12/2017 1:34:49 am)
+[2017.12.12-23.34.49:380][149]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.34.49:387][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007242s)
+[2017.12.12-23.34.49:388][149]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.34.49:388][149]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2017.12.12-23.34.49:388][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008659s)
+[2017.12.12-23.34.49:410][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.34.49:443][149]LogInit: FAudioDevice initialized.
+[2017.12.12-23.34.49:478][149]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.34.49:480][149]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.34.49
+[2017.12.12-23.34.49:480][149]LogWorld: Bringing up level for play took: 0.001213
+[2017.12.12-23.34.49:482][149]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.328
+[2017.12.12-23.34.50:278][195]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.50:396][202]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.34.50:594][214]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.50:794][226]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.34.51:111][245]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.51:494][268]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.34.53:261][374]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.53:361][380]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.34.53:479][387]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.53:711][401]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.34.53:861][410]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.53:894][412]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.34.57:529][630]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.34.57:595][634]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.11:662][466]BlueprintLog: New page: Compile PickupMasterBP
+[2017.12.12-23.35.13:428][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PickupMasterBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset" SILENT=true
+[2017.12.12-23.35.13:502][502]LogSavePackage: Save=69.19ms
+[2017.12.12-23.35.13:502][502]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PickupMasterBP4832FAA2452123F32286AE9164469554.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset'
+[2017.12.12-23.35.13:504][502]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PickupMasterBP.uasset
+[2017.12.12-23.35.15:800][638]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.35.15:828][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.35.15:828][638]PIE: New page: PIE session: Playground (13/12/2017 1:35:15 am)
+[2017.12.12-23.35.15:828][638]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.35.15:835][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006386s)
+[2017.12.12-23.35.15:835][638]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.35.15:836][638]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2017.12.12-23.35.15:836][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.007486s)
+[2017.12.12-23.35.15:858][638]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.35.15:889][638]LogInit: FAudioDevice initialized.
+[2017.12.12-23.35.15:922][638]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.35.15:925][638]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.35.15
+[2017.12.12-23.35.15:925][638]LogWorld: Bringing up level for play took: 0.001792
+[2017.12.12-23.35.15:928][638]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.773
+[2017.12.12-23.35.16:072][645]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.35.16:189][652]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.35.16:438][667]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.35.16:938][697]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.35.19:255][836]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.19:325][840]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.21:889][994]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.21:939][997]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.22:939][ 57]LogBlueprintUserMessages: [InteractMasterBP_176] Hi!
+[2017.12.12-23.35.23:122][ 68]LogBlueprintUserMessages: [InteractMasterBP_176] Bye then!
+[2017.12.12-23.35.24:339][141]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.24:457][148]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.26:056][244]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.26:090][246]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.29:574][455]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.29:590][456]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.30:923][536]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.32:192][612]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.33:514][691]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.33:547][693]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.34:114][727]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.34:130][728]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.37:498][930]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.37:531][932]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.37:599][936]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.37:982][959]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.39:098][ 26]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.40:015][ 81]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.40:015][ 81]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.35.40:098][ 86]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.35.40:232][ 94]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_0 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.35.40:566][114]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.40:599][116]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.40:648][119]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.40:682][121]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.40:682][121]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.35.41:032][142]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.35.42:153][209]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.42:236][214]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.44:719][363]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.44:903][374]LogBlueprintUserMessages: [PowerCoreBP_51] Look at me!
+[2017.12.12-23.35.45:336][400]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.45:386][403]LogBlueprintUserMessages: [InteractMasterBP3] Hi!
+[2017.12.12-23.35.45:419][405]LogBlueprintUserMessages: [InteractMasterBP3] Bye then!
+[2017.12.12-23.35.45:453][407]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.46:569][474]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.46:886][493]LogBlueprintUserMessages: [PowerCoreBP_51] Hi!
+[2017.12.12-23.35.47:653][539]LogBlueprintUserMessages: [PowerCoreBP_51] Bye then!
+[2017.12.12-23.35.47:870][552]LogActorComponent: Error: May not destroy component PhysicsHandleComponent /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.NODE_AddPhysicsHandleComponent-2_1 owned by FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Playground.Playground:PersistentLevel.FirstPersonCharacter_C_0.
+[2017.12.12-23.41.36:021][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-01.wav)
+[2017.12.12-23.41.36:023][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-01...
+[2017.12.12-23.41.36:045][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-01.Please-01.
+[2017.12.12-23.41.36:152][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-02.wav)
+[2017.12.12-23.41.36:155][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-02...
+[2017.12.12-23.41.36:189][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-02.Please-02.
+[2017.12.12-23.41.36:295][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-03.wav)
+[2017.12.12-23.41.36:297][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-03...
+[2017.12.12-23.41.36:328][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-03.Please-03.
+[2017.12.12-23.41.36:433][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-04.wav)
+[2017.12.12-23.41.36:436][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-04...
+[2017.12.12-23.41.36:466][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-04.Please-04.
+[2017.12.12-23.41.36:570][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-05.wav)
+[2017.12.12-23.41.36:572][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-05...
+[2017.12.12-23.41.36:602][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-05.Please-05.
+[2017.12.12-23.41.36:702][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-06.wav)
+[2017.12.12-23.41.36:704][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-06...
+[2017.12.12-23.41.36:729][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-06.Please-06.
+[2017.12.12-23.41.36:836][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-07.wav)
+[2017.12.12-23.41.36:838][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-07...
+[2017.12.12-23.41.36:867][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-07.Please-07.
+[2017.12.12-23.41.36:975][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-08.wav)
+[2017.12.12-23.41.36:977][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-08...
+[2017.12.12-23.41.37:006][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-08.Please-08.
+[2017.12.12-23.41.37:116][866]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Nicolaas/Documents/Audacity/DSC/Please-09.wav)
+[2017.12.12-23.41.37:118][866]LogAudioDerivedData: Display: Building compressed audio format OGG wave Please-09...
+[2017.12.12-23.41.37:149][866]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/DialogueSystem/PlayerAudio/Please/Please-09.Please-09.
+[2017.12.12-23.42.30:579][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset" SILENT=true
+[2017.12.12-23.42.30:595][994]LogSavePackage: Save=13.70ms
+[2017.12.12-23.42.30:595][994]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PlayerPleaseCueDF1848664DE9AD93CD7765ABB3859DF2.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset'
+[2017.12.12-23.42.30:598][994]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset
+[2017.12.12-23.42.36:800][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset" SILENT=true
+[2017.12.12-23.42.36:818][341]LogSavePackage: Save=12.95ms
+[2017.12.12-23.42.36:818][341]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PlayerPleaseCueDE54B33D40754BF9D1AF19993AD1EB21.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset'
+[2017.12.12-23.42.36:821][341]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset
+[2017.12.12-23.43.07:928][159]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.12-23.43.08:847][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../UnrealProjects/DSC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2017.12.12-23.43.09:111][179]LogSavePackage: Save=258.11ms
+[2017.12.12-23.43.09:111][179]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/FirstPersonCharacter343FE16C4568CC17727B9D984EA61E94.tmp' to '../../../../UnrealProjects/DSC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.12.12-23.43.09:114][179]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.12-23.43.10:905][286]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.43.10:922][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.43.10:922][286]PIE: New page: PIE session: Playground (13/12/2017 1:43:10 am)
+[2017.12.12-23.43.10:922][286]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.43.10:929][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006591s)
+[2017.12.12-23.43.10:929][286]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.43.10:930][286]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2017.12.12-23.43.10:930][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.008121s)
+[2017.12.12-23.43.10:952][286]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.43.10:984][286]LogInit: FAudioDevice initialized.
+[2017.12.12-23.43.11:021][286]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.43.11:023][286]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.43.11
+[2017.12.12-23.43.11:023][286]LogWorld: Bringing up level for play took: 0.001302
+[2017.12.12-23.43.11:026][286]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground -0.129
+[2017.12.12-23.43.11:187][294]LogBlueprintUserMessages: [PickupMasterBP_170] Hi!
+[2017.12.12-23.43.11:654][322]LogBlueprintUserMessages: [PickupMasterBP_170] Bye then!
+[2017.12.12-23.43.11:654][322]LogBlueprintUserMessages: [InteractMasterBP2] Hi!
+[2017.12.12-23.43.12:320][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.43.12:754][388]LogBlueprintUserMessages: [InteractMasterBP2] Bye then!
+[2017.12.12-23.43.13:054][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.43.13:787][450]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes No 
+[2017.12.12-23.43.14:137][471]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.14:870][515]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.15:170][533]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.43.15:904][577]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help 
+[2017.12.12-23.43.15:987][582]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.16:271][599]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.16:654][622]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.17:071][647]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.17:421][668]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.17:804][691]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.18:471][731]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.18:756][748]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.19:104][769]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.19:838][813]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please Please Please Please Please Please 
+[2017.12.12-23.43.20:021][824]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.20:755][868]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.20:904][877]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.21:171][893]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.21:504][913]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.22:239][957]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please 
+[2017.12.12-23.43.22:505][973]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.22:704][985]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.22:921][998]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.23:171][ 13]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.23:338][ 23]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.23:538][ 35]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.23:771][ 49]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.24:138][ 71]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.24:771][109]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.24:955][120]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.25:172][133]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.25:421][148]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.25:724][166]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.26:008][183]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.26:273][199]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.27:005][243]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please 
+[2017.12.12-23.43.27:272][259]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.27:457][270]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.27:638][281]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.27:822][292]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.28:005][303]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.28:172][313]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.28:355][324]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.28:572][337]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.28:922][358]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.29:522][394]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.29:922][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.30:356][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.31:089][488]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please Please Please Please Please Please Please Please Please 
+[2017.12.12-23.43.31:289][500]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.31:589][518]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.31:939][539]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.32:639][581]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.33:372][625]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please 
+[2017.12.12-23.43.33:672][643]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.34:405][687]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.34:689][704]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.35:274][739]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.35:739][767]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.36:289][800]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.37:023][844]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please 
+[2017.12.12-23.43.37:122][850]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.37:856][894]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.38:106][909]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.38:790][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.39:189][974]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.39:556][996]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.39:939][ 19]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.40:373][ 45]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.40:773][ 69]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.41:456][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.41:657][122]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.41:923][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.42:340][163]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.42:742][187]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.43:473][231]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please Please Please Please Please Please Please Please Please 
+[2017.12.12-23.43.43:906][257]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.44:623][300]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.45:123][330]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.45:857][374]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.46:590][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please Please Please 
+[2017.12.12-23.43.46:640][421]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.47:373][465]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.47:557][476]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.48:290][520]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.48:423][528]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.49:157][572]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.43.49:240][577]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.43.49:973][621]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No 
+[2017.12.12-23.43.50:390][646]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.50:657][662]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.43.51:390][706]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please No 
+[2017.12.12-23.43.51:523][714]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.51:807][731]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.51:857][734]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.43.52:590][778]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.43.52:973][801]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.53:708][845]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Please No Yes Please 
+[2017.12.12-23.43.53:923][858]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.43.54:484][891]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.55:218][935]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please 
+[2017.12.12-23.43.56:035][984]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.43.56:501][ 12]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.57:235][ 56]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please 
+[2017.12.12-23.43.57:435][ 68]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.43.57:935][ 98]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.58:669][142]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please 
+[2017.12.12-23.43.58:768][148]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.43.59:119][169]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.43.59:685][203]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.00:153][231]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.00:886][275]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Yes Please 
+[2017.12.12-23.44.01:435][308]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.02:169][352]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help 
+[2017.12.12-23.44.02:619][379]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.02:919][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.03:653][441]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Help 
+[2017.12.12-23.44.03:886][455]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.04:452][489]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.05:186][533]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Help 
+[2017.12.12-23.44.05:453][549]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.05:786][569]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.06:203][594]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.06:869][634]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.07:236][656]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.07:603][678]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.08:336][722]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Help Please Help Yes 
+[2017.12.12-23.44.08:970][760]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.09:703][804]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes 
+[2017.12.12-23.44.10:353][843]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.11:086][887]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No 
+[2017.12.12-23.44.11:386][905]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.11:736][926]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.12:437][968]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.12:755][987]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.13:487][ 31]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Help Help Please 
+[2017.12.12-23.44.13:953][ 59]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.14:536][ 94]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.15:270][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Help 
+[2017.12.12-23.44.16:020][183]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.16:387][205]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.17:120][249]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.17:854][293]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help Please Yes 
+[2017.12.12-23.44.18:170][312]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.18:537][334]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.19:270][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Help 
+[2017.12.12-23.44.20:237][436]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.20:738][466]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.21:471][510]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Help 
+[2017.12.12-23.44.21:937][538]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.22:387][565]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.22:871][594]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.23:323][621]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.24:054][665]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Help No Help 
+[2017.12.12-23.44.24:121][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.24:388][685]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.25:071][726]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.25:588][757]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.26:321][801]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Help No Help 
+[2017.12.12-23.44.26:355][803]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.26:821][831]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.27:507][872]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.27:905][896]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.28:572][936]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.28:988][961]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.29:688][  3]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.30:422][ 47]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Help No Help No Help Please 
+[2017.12.12-23.44.30:538][ 54]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.31:272][ 98]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help 
+[2017.12.12-23.44.31:422][107]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.31:855][133]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.32:372][164]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.33:106][208]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please No Help 
+[2017.12.12-23.44.33:889][255]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.34:405][286]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.35:139][330]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help No 
+[2017.12.12-23.44.36:356][403]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.37:089][447]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No 
+[2017.12.12-23.44.37:490][471]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.37:972][500]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.38:506][532]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.39:239][576]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Yes No 
+[2017.12.12-23.44.39:572][596]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.39:723][605]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.40:456][649]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.40:772][668]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.41:389][705]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.41:856][733]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.42:256][757]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.42:422][767]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.42:724][785]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.43:456][829]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Yes No Yes No Yes Yes No No 
+[2017.12.12-23.44.43:506][832]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.43:839][852]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.44.44:273][878]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.44:822][911]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.45:556][955]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Yes No Please 
+[2017.12.12-23.44.46:256][997]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.46:474][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.46:956][ 39]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.47:389][ 65]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.44.48:123][109]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Please Please Help 
+[2017.12.12-23.44.48:423][127]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.48:756][147]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.49:490][191]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please No 
+[2017.12.12-23.44.49:673][202]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.49:989][221]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.50:473][250]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.51:006][282]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.51:373][304]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.51:807][330]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.52:340][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.52:774][388]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.53:157][411]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.53:573][436]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.53:940][458]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.54:298][479]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.54:765][507]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.55:432][547]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.55:716][564]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.56:032][583]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.56:317][600]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.56:616][618]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.56:932][637]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.57:316][660]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.57:899][695]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.58:183][712]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.58:532][733]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.59:182][772]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.44.59:599][797]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.44.59:949][818]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.00:666][861]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.01:066][885]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.01:733][925]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.02:066][945]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.02:734][985]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.03:216][ 14]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.03:900][ 55]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.04:217][ 74]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.04:567][ 95]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.04:883][114]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.05:267][137]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.05:617][158]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.06:283][198]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.06:617][218]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.06:883][234]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.45.07:617][278]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please Please No Please Help Help Please Please Help Please Help Please Help Please Help Please Help Please Help No 
+[2017.12.12-23.45.07:750][286]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No
+[2017.12.12-23.45.08:117][308]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.08:850][352]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] No Help 
+[2017.12.12-23.45.08:884][354]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.09:617][398]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please 
+[2017.12.12-23.45.10:367][443]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.10:667][461]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.11:400][505]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please Help 
+[2017.12.12-23.45.11:684][522]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.12:001][541]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.12:334][561]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.13:068][605]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help Please Help 
+[2017.12.12-23.45.15:217][734]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.45.15:534][753]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.16:084][786]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.16:818][830]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Help 
+[2017.12.12-23.45.17:685][882]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.45.18:001][901]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.18:418][926]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.19:134][969]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.45.19:418][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.19:767][  7]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.20:134][ 29]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.20:868][ 73]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Help Yes Please Please Help 
+[2017.12.12-23.45.21:651][120]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.45.22:002][141]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.22:451][168]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.22:854][192]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.23:585][236]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Please Help 
+[2017.12.12-23.45.24:701][303]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.45.25:034][323]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.25:402][345]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.25:734][365]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.26:468][409]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Please Help 
+[2017.12.12-23.45.27:201][453]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes
+[2017.12.12-23.45.27:818][490]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.28:501][531]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Please
+[2017.12.12-23.45.29:151][570]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Help
+[2017.12.12-23.45.29:885][614]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Yes Please Please Help 
+[2017.12.12-23.46.09:286][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Box_3_model)
+[2017.12.12-23.46.13:035][160]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-23.47.22:414][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Box_2_model)
+[2017.12.12-23.48.10:678][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Box_2_model" FILE="../../../../UnrealProjects/DSC/Content/Geometry/Meshes/DSC_Box_2_model.uasset" SILENT=true
+[2017.12.12-23.48.10:695][866]LogSavePackage: Save=12.31ms
+[2017.12.12-23.48.10:695][866]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/DSC_Box_2_model841108FD40BD6F451B5F71ACF1767943.tmp' to '../../../../UnrealProjects/DSC/Content/Geometry/Meshes/DSC_Box_2_model.uasset'
+[2017.12.12-23.48.10:698][866]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Geometry/Meshes/DSC_Box_2_model.uasset
+[2017.12.12-23.48.18:408][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-23.48.18:496][293]LogSavePackage: Save=63.69ms
+[2017.12.12-23.48.18:496][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground3FA29B304DD20A51E9FBB18298DF55D8.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.12-23.48.18:499][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.12-23.48.18:523][293]LogFileHelpers: Saving map 'Playground' took 0.189
+[2017.12.12-23.48.18:541][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/DSC_Box_3_model" FILE="../../../../UnrealProjects/DSC/Content/Geometry/Meshes/DSC_Box_3_model.uasset" SILENT=true
+[2017.12.12-23.48.18:558][293]LogSavePackage: Save=12.26ms
+[2017.12.12-23.48.18:559][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/DSC_Box_3_model280E363D41D451334A6F71A01C07BD9C.tmp' to '../../../../UnrealProjects/DSC/Content/Geometry/Meshes/DSC_Box_3_model.uasset'
+[2017.12.12-23.48.18:561][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Geometry/Meshes/DSC_Box_3_model.uasset
+[2017.12.12-23.48.18:578][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PowerCoreBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset" SILENT=true
+[2017.12.12-23.48.18:606][293]LogSavePackage: Save=23.27ms
+[2017.12.12-23.48.18:606][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PowerCoreBP8565B3BE44BADD5192825F82F4DB97E3.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset'
+[2017.12.12-23.48.18:609][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PowerCoreBP.uasset
+[2017.12.12-23.48.18:612][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/PhotoFrameBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset" SILENT=true
+[2017.12.12-23.48.18:632][293]LogSavePackage: Save=15.02ms
+[2017.12.12-23.48.18:632][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/PhotoFrameBP8E0484B54EE22B970F02A6B75218E7AE.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset'
+[2017.12.12-23.48.18:635][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/PhotoFrameBP.uasset
+[2017.12.12-23.48.18:648][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-01" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-01.uasset" SILENT=true
+[2017.12.12-23.48.18:653][293]LogSavePackage: Save=4.18ms
+[2017.12.12-23.48.18:653][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-012E1AE3FE4BFB7AF6C8DEB1BDD81264C0.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-01.uasset'
+[2017.12.12-23.48.18:656][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-01.uasset
+[2017.12.12-23.48.18:943][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-02" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-02.uasset" SILENT=true
+[2017.12.12-23.48.18:949][293]LogSavePackage: Save=4.87ms
+[2017.12.12-23.48.18:949][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-02D62CCAF340AF0AAB7FD16998E0EE20E7.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-02.uasset'
+[2017.12.12-23.48.18:952][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-02.uasset
+[2017.12.12-23.48.19:185][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-03" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-03.uasset" SILENT=true
+[2017.12.12-23.48.19:192][293]LogSavePackage: Save=5.50ms
+[2017.12.12-23.48.19:192][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-03909010ED412E783AECA36AB3BED1E3E0.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-03.uasset'
+[2017.12.12-23.48.19:195][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-03.uasset
+[2017.12.12-23.48.19:417][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-04" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-04.uasset" SILENT=true
+[2017.12.12-23.48.19:422][293]LogSavePackage: Save=3.62ms
+[2017.12.12-23.48.19:422][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-040A77BDF64E23500D1D27469746933CA7.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-04.uasset'
+[2017.12.12-23.48.19:424][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-04.uasset
+[2017.12.12-23.48.19:665][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-05" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-05.uasset" SILENT=true
+[2017.12.12-23.48.19:671][293]LogSavePackage: Save=4.23ms
+[2017.12.12-23.48.19:671][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-0522C741A64B3630967BAA5AAE91C8535A.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-05.uasset'
+[2017.12.12-23.48.19:673][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-05.uasset
+[2017.12.12-23.48.19:909][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-06" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-06.uasset" SILENT=true
+[2017.12.12-23.48.19:914][293]LogSavePackage: Save=4.19ms
+[2017.12.12-23.48.19:914][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-0621DE7CC2481FF7378BA4DEA13A19B8DA.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-06.uasset'
+[2017.12.12-23.48.19:916][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-06.uasset
+[2017.12.12-23.48.20:152][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-07" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-07.uasset" SILENT=true
+[2017.12.12-23.48.20:158][293]LogSavePackage: Save=4.54ms
+[2017.12.12-23.48.20:158][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-07D7DCB6604C3477D2AB48FE8BDCFCC8A6.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-07.uasset'
+[2017.12.12-23.48.20:160][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-07.uasset
+[2017.12.12-23.48.20:385][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-08" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-08.uasset" SILENT=true
+[2017.12.12-23.48.20:390][293]LogSavePackage: Save=4.17ms
+[2017.12.12-23.48.20:390][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-084589D11940CF2AFFDE8F8A950C7E293A.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-08.uasset'
+[2017.12.12-23.48.20:393][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-08.uasset
+[2017.12.12-23.48.20:619][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/PlayerAudio/Please/Please-09" FILE="../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-09.uasset" SILENT=true
+[2017.12.12-23.48.20:624][293]LogSavePackage: Save=4.31ms
+[2017.12.12-23.48.20:624][293]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Please-09C33D225C4AFC2D49C09B90976D8F523D.tmp' to '../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-09.uasset'
+[2017.12.12-23.48.20:627][293]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/DialogueSystem/PlayerAudio/Please/Please-09.uasset
+[2017.12.12-23.48.32:037][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.12-23.49.42:328][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DSC_Bomb_model)
+[2017.12.12-23.50.12:698][954]BlueprintLog: New page: Compile BombBP
+[2017.12.12-23.50.27:234][799]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-23.50.27:252][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-23.50.27:253][799]PIE: New page: PIE session: Playground (13/12/2017 1:50:27 am)
+[2017.12.12-23.50.27:253][799]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Playground
+[2017.12.12-23.50.27:260][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007712s)
+[2017.12.12-23.50.27:261][799]LogAIModule: Creating AISystem for world Playground
+[2017.12.12-23.50.27:261][799]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2017.12.12-23.50.27:262][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Playground.Playground to /Game/Levels/UEDPIE_0_Playground.Playground (0.009016s)
+[2017.12.12-23.50.27:286][799]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-23.50.27:319][799]LogInit: FAudioDevice initialized.
+[2017.12.12-23.50.27:354][799]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-23.50.27:357][799]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Playground.Playground up for play (max tick rate 60) at 2017.12.13-00.50.27
+[2017.12.12-23.50.27:357][799]LogWorld: Bringing up level for play took: 0.001645
+[2017.12.12-23.50.27:359][799]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Playground 0.205
+[2017.12.12-23.50.28:685][877]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.12-23.50.28:951][893]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.12-23.50.28:968][894]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.12-23.50.29:735][940]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.12-23.50.30:135][964]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.12-23.50.34:653][235]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.12-23.50.35:846][306]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.12-23.50.36:779][362]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.12-23.50.37:046][378]LogBlueprintUserMessages: [BombBP_85] Hi!
+[2017.12.12-23.50.39:931][551]LogBlueprintUserMessages: [BombBP_85] Bye then!
+[2017.12.12-23.50.45:237][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Playground" FILE="../../../../UnrealProjects/DSC/Content/Levels/Playground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.12-23.50.45:321][847]LogSavePackage: Save=60.40ms
+[2017.12.12-23.50.45:321][847]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/Playground87B92E7D4B59945D19D0EC9D07F456BF.tmp' to '../../../../UnrealProjects/DSC/Content/Levels/Playground.umap'
+[2017.12.12-23.50.45:323][847]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Levels/Playground.umap
+[2017.12.12-23.50.45:341][847]LogFileHelpers: Saving map 'Playground' took 0.180
+[2017.12.12-23.50.45:357][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/BombBP" FILE="../../../../UnrealProjects/DSC/Content/Interaction/BombBP.uasset" SILENT=true
+[2017.12.12-23.50.45:379][847]LogSavePackage: Save=21.53ms
+[2017.12.12-23.50.45:379][847]LogSavePackage: Moving '../../../../UnrealProjects/DSC/Saved/BombBP0BDD58294DF76347D32C05A2104A4DF9.tmp' to '../../../../UnrealProjects/DSC/Content/Interaction/BombBP.uasset'
+[2017.12.12-23.50.45:382][847]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/DSC/Content/Interaction/BombBP.uasset
+[2017.12.12-23.50.50:824][158]SourceControl: fatal: D:/UE_4.18/Engine/Content/: 'D:/UE_4.18/Engine/Content/' is outside repository
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey', but the path contains illegal characters '.'
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial', but the path contains illegal characters '.'
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController', but the path contains illegal characters '.'
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO', but the path contains illegal characters '.'
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color', but the path contains illegal characters '.'
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal', but the path contains illegal characters '.'
+[2017.12.12-23.50.50:937][158]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2017.12.12-23.51.10:166][158]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.12-23.51.10:642][158]SourceControl: [master 755c6fa] Added Please and updated mesh boundaries
+[2017.12.12-23.51.10:642][158]SourceControl:  21 files changed, 6 insertions(+), 9 deletions(-)
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/PlayerPleaseCue.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-01.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-02.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-03.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-04.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-05.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-06.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-07.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-08.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/DialogueSystem/PlayerAudio/Please/Please-09.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset (84%)
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/Interaction/BombBP.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  rewrite Content/Interaction/PhotoFrame.uasset (100%)
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/Interaction/PhotoFrameBP.uasset
+[2017.12.12-23.51.10:642][158]SourceControl:  rewrite Content/Interaction/PickupMasterBP.uasset (64%)
+[2017.12.12-23.51.10:642][158]SourceControl:  create mode 100644 Content/Interaction/PowerCoreBP.uasset
+[2017.12.12-23.51.10:650][158]SourceControl: Commited [master 755c6fa] Added Please and updated mesh boundaries.
+[2017.12.12-23.51.38:128][330]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.12-23.51.38:187][330]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.12-23.51.38:263][330]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.12-23.51.38:319][330]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.12-23.51.38:491][331]Cmd: QUIT_EDITOR
+[2017.12.12-23.51.39:024][331]LogExit: Preparing to exit.
+[2017.12.12-23.51.40:006][331]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Content/' was aborted.
+[2017.12.12-23.51.40:038][331]LogExit: Editor shut down
+[2017.12.12-23.51.40:045][331]LogExit: Transaction tracking system shut down
+[2017.12.12-23.51.40:176][331]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.12-23.51.40:176][331]LogDirectoryWatcher: A directory notification for '../../../../UnrealProjects/DSC/Content/' was aborted.
+[2017.12.12-23.51.40:176][331]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.12-23.51.40:176][331]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.12-23.51.40:176][331]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.12-23.51.40:276][331]LogExit: Object subsystem successfully closed.
+[2017.12.12-23.51.40:297][331]LogD3D11RHI: Shutdown
+[2017.12.12-23.51.40:297][331]LogD3D11RHI: CleanupD3DDevice
+[2017.12.12-23.51.40:300][331]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (548)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (546)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (544)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (542)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module BlueprintGraph (540)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (538)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module SceneOutliner (536)
+[2017.12.12-23.51.40:308][331]LogModuleManager: Shutting down and abandoning module AddContentDialog (534)
+[2017.12.12-23.51.40:308][331]LogDirectoryWatcher: A directory notification for 'D:/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module WidgetCarousel (533)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module EditorWidgets (530)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module CollectionManager (528)
+[2017.12.12-23.51.40:310][331]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Content/Collections/' was aborted.
+[2017.12.12-23.51.40:310][331]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Content/Developers/Nicolaas/Collections/' was aborted.
+[2017.12.12-23.51.40:310][331]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/DSC/Saved/Collections/' was aborted.
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module StatsViewer (526)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module FoliageEdit (524)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module LandscapeEditor (522)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module MeshPaintMode (520)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (518)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module ActorPickerMode (516)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module GeometryMode (514)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module TextureAlignMode (512)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module BspMode (510)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (508)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module HardwareSurvey (506)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (504)
+[2017.12.12-23.51.40:310][331]LogModuleManager: Shutting down and abandoning module AutomationWorker (502)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (500)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (498)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module PlacementMode (497)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (494)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (492)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (490)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (488)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (486)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (478)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (461)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.12.12-23.51.40:311][331]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.12.12-23.51.40:622][331]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.12.12-23.51.40:623][331]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.12.12-23.51.40:687][331]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (358)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module LauncherPlatform (356)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module AnalyticsET (354)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module PortalServices (352)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module PortalRpc (350)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module MessagingRpc (348)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module AIModule (346)
+[2017.12.12-23.51.40:694][331]LogModuleManager: Shutting down and abandoning module GameplayDebugger (345)
+[2017.12.12-23.51.40:695][331]LogModuleManager: Shutting down and abandoning module AITestSuite (343)
+[2017.12.12-23.51.40:695][331]LogModuleManager: Shutting down and abandoning module DesktopPlatform (340)
+[2017.12.12-23.51.40:695][331]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2017.12.12-23.51.40:944][331]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (334)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (332)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (328)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module CableComponent (326)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (324)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module AndroidPermission (322)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module ActorSequence (318)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (316)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (314)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module MediaCompositing (312)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (292)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.12.12-23.51.40:945][331]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.12.12-23.51.40:946][331]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.12.12-23.51.40:946][331]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.12.12-23.51.40:946][331]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (254)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (252)
+[2017.12.12-23.51.40:947][331]LogModuleManager: Shutting down and abandoning module UdpMessaging (250)
+[2017.12.12-23.51.41:047][331]LogModuleManager: Shutting down and abandoning module TcpMessaging (248)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (246)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (244)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module FacialAnimation (242)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (240)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module GraphEditor (239)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module ContentBrowser (237)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module ImgMedia (226)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module MediaAssets (218)
+[2017.12.12-23.51.41:148][331]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module Overlay (214)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module OverlayEditor (213)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.12-23.51.41:156][331]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.12-23.51.41:157][331]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2017.12.12-23.51.41:162][331]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (162)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module KismetCompiler (160)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module MeshUtilities (158)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (157)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (156)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (155)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (153)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (151)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module MaterialBaking (147)
+[2017.12.12-23.51.41:163][331]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.12-23.51.41:244][331]LogDerivedDataCache: Shutdown
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.12-23.51.41:244][331]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (95)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (93)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (91)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (89)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (87)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (85)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (83)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (81)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.12-23.51.41:245][331]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.12-23.51.41:245][331]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.12-23.51.41:245][331]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF328B3F5-4E1C-AB7C-ABAA-A39416F5C8C7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=1b57ede44761d298b1857fb68275d256%7Cc7ca512f0b2d46b4ac38a990ee62864d%7C27d75541-00f4-4ae7-8a28-61bb13cd5131&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.12-23.51.41:252][331]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.12-23.51.41:254][331]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.12-23.51.41:256][331]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.12-23.51.41:259][331]LogExit: Exiting.
+[2017.12.12-23.51.41:268][331]Log file closed, 12/13/17 00:51:41
